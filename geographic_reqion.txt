@@ -1,0 +1,5 @@
+id_geographic_region	name
+1	Not applicable
+2	Multi-region
+3	US
+4	JP
