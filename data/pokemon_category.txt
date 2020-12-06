@@ -1,0 +1,13 @@
+id_pokemon_category	name
+1	Baby
+2	Basic
+3	Stage 1
+4	Stage 2
+5	LV.X
+6	MEGA
+7	BREAK
+8	Restored
+9	Fossil
+10	Pokemon-EX
+11	LEGEND
+12	VMAX

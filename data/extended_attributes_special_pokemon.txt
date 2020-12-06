@@ -1,0 +1,8 @@
+id_extended_attributes_special_pokemon	flag_label	notes
+0	Not applicable	This card does not have any special characteristics
+1	G 	Denotes “Team Galactics Pokemon”
+2	GL 	Denotes “Gym Leader’s Pokemon”
+3	4	Denotes “Elite Four’s Pokemon”
+4	C 	Denotes “Cynthia’s Pokemon”
+5	FB 	Denotes “Frontier Brian’s Pokemon”
+6	M 	Denotes “Movies’s Pokemon”. These were release in Japan only.

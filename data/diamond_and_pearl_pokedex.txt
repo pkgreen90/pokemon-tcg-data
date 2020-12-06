@@ -1,0 +1,532 @@
+id_diamond_and_pearl_pokedex	id_national_index	pokemon_name	id_pokedex_type_1	id_pokedex_type_2
+#001	1	Bulbasaur	11	15
+#002	2	Ivysaur	11	15
+#003	3	Venusaur	11	15
+#004	4	Charmander	8	
+#005	5	Charmeleon	8	
+#006	6	Charizard	8	9
+#007	7	Squirtle	19	
+#008	8	Wartortle	19	
+#009	9	Blastoise	19	
+#010	10	Caterpie	2	
+#011	11	Metapod	2	
+#012	12	Butterfree	2	
+#013	13	Weedle	2	15
+#014	14	Kakuna	2	15
+#015	15	Beedrill	2	15
+#016	16	Pidgey	14	9
+#017	17	Pidgeotto	14	9
+#018	18	Pidgeot	14	9
+#019	19	Rattata	14	
+#020	20	Raticate	14	
+#021	21	Spearow	14	9
+#022	22	Fearow	14	9
+#023	23	Ekans	15	
+#024	24	Arbok	15	
+#025	172	Pichu	5	
+#026	25	Pikachu	5	
+#027	26	Raichu	5	
+#028	27	Sandshrew	12	
+#029	28	Sandslash	12	
+#030	29	Nidoran♀	15	
+#031	30	Nidorina	15	
+#032	31	Nidoqueen	15	12
+#033	32	Nidoran♂	15	
+#034	33	Nidorino	15	
+#035	34	Nidoking	15	12
+#036	173	Cleffa	14	
+#037	35	Clefairy	14	
+#038	36	Clefable	14	
+#039	37	Vulpix	8	
+#040	38	Ninetales	8	
+#041	174	Igglybuff	14	
+#042	39	Jigglypuff	14	
+#043	40	Wigglytuff	14	
+#044	41	Zubat	15	9
+#045	42	Golbat	15	9
+#046	169	Crobat	15	9
+#047	43	Oddish	11	15
+#048	44	Gloom	11	15
+#049	45	Vileplume	11	15
+#050	182	Bellossom	11	
+#051	46	Paras	2	11
+#052	47	Parasect	2	11
+#053	48	Venonat	2	15
+#054	49	Venomoth	2	15
+#055	50	Diglett	12	
+#056	51	Dugtrio	12	
+#057	52	Meowth	14	
+#058	53	Persian	14	
+#059	54	Psyduck	19	
+#060	55	Golduck	19	
+#061	56	Mankey	7	
+#062	57	Primeape	7	
+#063	58	Growlithe	8	
+#064	59	Arcanine	8	
+#065	60	Poliwag	19	
+#066	61	Poliwhirl	19	
+#067	62	Poliwrath	19	7
+#068	186	Politoed	19	
+#069	63	Abra	16	
+#070	64	Kadabra	16	
+#071	65	Alakazam	16	
+#072	66	Machop	7	
+#073	67	Machoke	7	
+#074	68	Machamp	7	
+#075	69	Bellsprout	11	15
+#076	70	Weepinbell	11	15
+#077	71	Victreebel	11	15
+#078	72	Tentacool	19	15
+#079	73	Tentacruel	19	15
+#080	74	Geodude	17	12
+#081	75	Graveler	17	12
+#082	76	Golem	17	12
+#083	77	Ponyta	8	
+#084	78	Rapidash	8	
+#085	79	Slowpoke	19	16
+#086	80	Slowbro	19	16
+#087	199	Slowking	19	16
+#088	81	Magnemite	5	18
+#089	82	Magneton	5	18
+#090	462	Magnezone	5	18
+#091	83	Farfetch'd	14	9
+#092	84	Doduo	14	9
+#093	85	Dodrio	14	9
+#094	86	Seel	19	
+#095	87	Dewgong	19	13
+#096	88	Grimer	15	
+#097	89	Muk	15	
+#098	90	Shellder	19	
+#099	91	Cloyster	19	13
+#100	92	Gastly	10	15
+#101	93	Haunter	10	15
+#102	94	Gengar	10	15
+#103	95	Onix	17	12
+#104	208	Steelix	18	12
+#105	96	Drowzee	16	
+#106	97	Hypno	16	
+#107	98	Krabby	19	
+#108	99	Kingler	19	
+#109	100	Voltorb	5	
+#110	101	Electrode	5	
+#111	102	Exeggcute	11	16
+#112	103	Exeggutor	11	16
+#113	104	Cubone	12	
+#114	105	Marowak	12	
+#115	236	Tyrogue	7	
+#116	106	Hitmonlee	7	
+#117	107	Hitmonchan	7	
+#118	237	Hitmontop	7	
+#119	108	Lickitung	14	
+#120	463	Lickilicky	14	
+#121	109	Koffing	15	
+#122	110	Weezing	15	
+#123	111	Rhyhorn	12	17
+#124	112	Rhydon	12	17
+#125	464	Rhyperior	12	17
+#126	440	Happiny	14	
+#127	113	Chansey	14	
+#128	242	Blissey	14	
+#129	114	Tangela	11	
+#130	465	Tangrowth	11	
+#131	115	Kangaskhan	14	
+#132	116	Horsea	19	
+#133	117	Seadra	19	
+#134	230	Kingdra	19	4
+#135	118	Goldeen	19	
+#136	119	Seaking	19	
+#137	120	Staryu	19	
+#138	121	Starmie	19	16
+#139	439	Mime Jr.	16	
+#140	122	Mr. Mime	16	
+#141	123	Scyther	2	9
+#142	212	Scizor	2	18
+#143	238	Smoochum	13	16
+#144	124	Jynx	13	16
+#145	239	Elekid	5	
+#146	125	Electabuzz	5	
+#147	466	Electivire	5	
+#148	240	Magby	8	
+#149	126	Magmar	8	
+#150	467	Magmortar	8	
+#151	127	Pinsir	2	
+#152	128	Tauros	14	
+#153	129	Magikarp	19	
+#154	130	Gyarados	19	9
+#155	131	Lapras	19	13
+#156	132	Ditto	14	
+#157	133	Eevee	14	
+#158	470	Leafeon	11	
+#159	136	Flareon	8	
+#160	134	Vaporeon	19	
+#161	471	Glaceon	13	
+#162	135	Jolteon	5	
+#163	196	Espeon	16	
+#164	197	Umbreon	3	
+#165	137	Porygon	14	
+#166	233	Porygon2	14	
+#167	474	Porygon-Z	14	
+#168	138	Omanyte	17	19
+#169	139	Omastar	17	19
+#170	140	Kabuto	17	19
+#171	141	Kabutops	17	19
+#172	142	Aerodactyl	17	9
+#173	446	Munchlax	14	
+#174	143	Snorlax	14	
+#175	144	Articuno	13	9
+#176	145	Zapdos	5	9
+#177	146	Moltres	8	9
+#178	147	Dratini	4	
+#179	148	Dragonair	4	
+#180	149	Dragonite	4	9
+#181	150	Mewtwo	16	
+#182	151	Mew	16	
+#183	152	Chikorita	11	
+#184	153	Bayleef	11	
+#185	154	Meganium	11	
+#186	155	Cyndaquil	8	
+#187	156	Quilava	8	
+#188	157	Typhlosion	8	
+#189	158	Totodile	19	
+#190	159	Croconaw	19	
+#191	160	Feraligatr	19	
+#192	161	Sentret	14	
+#193	162	Furret	14	
+#194	163	Hoothoot	14	9
+#195	164	Noctowl	14	9
+#196	165	Ledyba	2	9
+#197	166	Ledian	2	9
+#198	167	Spinarak	2	15
+#199	168	Ariados	2	15
+#200	170	Chinchou	19	5
+#201	171	Lanturn	19	5
+#202	175	Togepi	14	
+#203	176	Togetic	14	9
+#204	468	Togekiss	14	9
+#205	177	Natu	16	9
+#206	178	Xatu	16	9
+#207	179	Mareep	5	
+#208	180	Flaaffy	5	
+#209	181	Ampharos	5	
+#210	298	Azurill	14	
+#211	183	Marill	19	
+#212	184	Azumarill	19	
+#213	438	Bonsly	17	
+#214	185	Sudowoodo	17	
+#215	187	Hoppip	11	9
+#216	188	Skiploom	11	9
+#217	189	Jumpluff	11	9
+#218	211	Qwilfish	19	15
+#219	191	Sunkern	11	
+#220	192	Sunflora	11	
+#221	193	Yanma	2	9
+#222	469	Yanmega	2	9
+#223	194	Wooper	19	12
+#224	195	Quagsire	19	12
+#225	198	Murkrow	3	9
+#226	430	Honchkrow	3	9
+#227	200	Misdreavus	10	
+#228	429	Mismagius	10	
+#229	201	Unown	16	
+#230	201	Unown	16	
+#231	201	Unown	16	
+#232	201	Unown	16	
+#233	201	Unown	16	
+#234	201	Unown	16	
+#235	201	Unown	16	
+#236	201	Unown	16	
+#237	201	Unown	16	
+#238	201	Unown	16	
+#239	201	Unown	16	
+#240	201	Unown	16	
+#241	201	Unown	16	
+#242	201	Unown	16	
+#243	201	Unown	16	
+#244	201	Unown	16	
+#245	201	Unown	16	
+#246	201	Unown	16	
+#247	201	Unown	16	
+#248	201	Unown	16	
+#249	201	Unown	16	
+#250	201	Unown	16	
+#251	201	Unown	16	
+#252	201	Unown	16	
+#253	201	Unown	16	
+#254	201	Unown	16	
+#255	201	Unown	16	
+#256	201	Unown	16	
+#257	360	Wynaut	16	
+#258	202	Wobbuffet	16	
+#259	213	Shuckle	2	17
+#260	204	Pineco	2	
+#261	205	Forretress	2	18
+#262	206	Dunsparce	14	
+#263	207	Gligar	12	9
+#264	472	Gliscor	12	9
+#265	209	Snubbull	14	
+#266	210	Granbull	14	
+#267	190	Aipom	14	
+#268	424	Ambipom	14	
+#269	214	Heracross	2	7
+#270	215	Sneasel	3	13
+#271	461	Weavile	3	13
+#272	216	Teddiursa	14	
+#273	217	Ursaring	14	
+#274	218	Slugma	8	
+#275	219	Magcargo	8	17
+#276	220	Swinub	13	12
+#277	221	Piloswine	13	12
+#278	473	Mamoswine	13	12
+#279	222	Corsola	19	17
+#280	223	Remoraid	19	
+#281	224	Octillery	19	
+#282	225	Delibird	13	9
+#283	458	Mantyke	19	9
+#284	226	Mantine	19	9
+#285	227	Skarmory	18	9
+#286	228	Houndour	3	8
+#287	229	Houndoom	3	8
+#288	231	Phanpy	12	
+#289	232	Donphan	12	
+#290	234	Stantler	14	
+#291	235	Smeargle	14	
+#292	241	Miltank	14	
+#293	243	Raikou	5	
+#294	244	Entei	8	
+#295	245	Suicune	19	
+#296	246	Larvitar	17	12
+#297	247	Pupitar	17	12
+#298	248	Tyranitar	17	3
+#299	249	Lugia	16	9
+#300	250	Ho-Oh	8	9
+#301	251	Celebi	16	11
+#302	252	Treecko	11	
+#303	253	Grovyle	11	
+#304	254	Sceptile	11	
+#305	255	Torchic	8	
+#306	256	Combusken	8	7
+#307	257	Blaziken	8	7
+#308	258	Mudkip	19	
+#309	259	Marshtomp	19	12
+#310	260	Swampert	19	12
+#311	261	Poochyena	3	
+#312	262	Mightyena	3	
+#313	263	Zigzagoon	14	
+#314	264	Linoone	14	
+#315	265	Wurmple	2	
+#316	266	Silcoon	2	
+#317	267	Beautifly	2	9
+#318	268	Cascoon	2	
+#319	269	Dustox	2	15
+#320	270	Lotad	19	11
+#321	271	Lombre	19	11
+#322	272	Ludicolo	19	11
+#323	273	Seedot	11	
+#324	274	Nuzleaf	11	3
+#325	275	Shiftry	11	3
+#326	276	Taillow	14	9
+#327	277	Swellow	14	9
+#328	278	Wingull	19	9
+#329	279	Pelipper	19	9
+#330	280	Ralts	16	
+#331	281	Kirlia	16	
+#332	282	Gardevoir	16	
+#333	475	Gallade	16	7
+#334	283	Surskit	2	19
+#335	284	Masquerain	2	9
+#336	285	Shroomish	11	
+#337	286	Breloom	11	7
+#338	287	Slakoth	14	
+#339	288	Vigoroth	14	
+#340	289	Slaking	14	
+#341	290	Nincada	2	12
+#342	291	Ninjask	2	9
+#343	292	Shedinja	2	10
+#344	293	Whismur	14	
+#345	294	Loudred	14	
+#346	295	Exploud	14	
+#347	296	Makuhita	7	
+#348	297	Hariyama	7	
+#349	299	Nosepass	17	
+#350	476	Probopass	17	18
+#351	300	Skitty	14	
+#352	301	Delcatty	14	
+#353	302	Sableye	3	10
+#354	303	Mawile	18	
+#355	304	Aron	18	17
+#356	305	Lairon	18	17
+#357	306	Aggron	18	17
+#358	307	Meditite	7	16
+#359	308	Medicham	7	16
+#360	309	Electrike	5	
+#361	310	Manectric	5	
+#362	311	Plusle	5	
+#363	312	Minun	5	
+#364	313	Volbeat	2	
+#365	314	Illumise	2	
+#366	406	Budew	11	15
+#367	315	Roselia	11	15
+#368	407	Roserade	11	15
+#369	316	Gulpin	15	
+#370	317	Swalot	15	
+#371	318	Carvanha	19	3
+#372	319	Sharpedo	19	3
+#373	320	Wailmer	19	
+#374	321	Wailord	19	
+#375	322	Numel	8	12
+#376	323	Camerupt	8	12
+#377	324	Torkoal	8	
+#378	325	Spoink	16	
+#379	326	Grumpig	16	
+#380	327	Spinda	14	
+#381	328	Trapinch	12	
+#382	329	Vibrava	12	4
+#383	330	Flygon	12	4
+#384	331	Cacnea	11	
+#385	332	Cacturne	11	3
+#386	333	Swablu	14	9
+#387	334	Altaria	4	9
+#388	335	Zangoose	14	
+#389	336	Seviper	15	
+#390	337	Lunatone	17	16
+#391	338	Solrock	17	16
+#392	339	Barboach	19	12
+#393	340	Whiscash	19	12
+#394	341	Corphish	19	
+#395	342	Crawdaunt	19	3
+#396	343	Baltoy	12	16
+#397	344	Claydol	12	16
+#398	345	Lileep	17	11
+#399	346	Cradily	17	11
+#400	347	Anorith	17	2
+#401	348	Armaldo	17	2
+#402	349	Feebas	19	
+#403	350	Milotic	19	
+#404	351	Castform	8	
+#405	351	Castform	19	
+#406	351	Castform	13	
+#407	351	Castform	14	
+#408	352	Kecleon	14	
+#409	353	Shuppet	10	
+#410	354	Banette	10	
+#411	355	Duskull	10	
+#412	356	Dusclops	10	
+#413	477	Dusknoir	10	
+#414	357	Tropius	11	9
+#415	433	Chingling	16	
+#416	358	Chimecho	16	
+#417	359	Absol	3	
+#418	361	Snorunt	13	
+#419	362	Glalie	13	
+#420	478	Froslass	13	10
+#421	363	Spheal	13	19
+#422	364	Sealeo	13	19
+#423	365	Walrein	13	19
+#424	366	Clamperl	19	
+#425	367	Huntail	19	
+#426	368	Gorebyss	19	
+#427	369	Relicanth	19	17
+#428	370	Luvdisc	19	
+#429	371	Bagon	4	
+#430	372	Shelgon	4	
+#431	373	Salamence	4	9
+#432	374	Beldum	18	16
+#433	375	Metang	18	16
+#434	376	Metagross	18	16
+#435	377	Regirock	17	
+#436	378	Regice	13	
+#437	379	Registeel	18	
+#438	380	Latias	4	
+#439	381	Latios	4	
+#440	382	Kyogre	19	
+#441	383	Groudon	12	
+#442	384	Rayquaza	4	9
+#443	385	Jirachi	18	16
+#444	386	Deoxys	16	
+#445	386	Deoxys	16	
+#446	386	Deoxys	16	
+#447	386	Deoxys	16	
+#448	387	Turtwig	11	
+#449	388	Grotle	11	
+#450	389	Torterra	11	12
+#451	390	Chimchar	8	
+#452	391	Monferno	8	7
+#453	392	Infernape	8	7
+#454	393	Piplup	19	
+#455	394	Prinplup	19	
+#456	395	Empoleon	19	18
+#457	396	Starly	14	9
+#458	397	Staravia	14	9
+#459	398	Staraptor	14	9
+#460	399	Bidoof	14	
+#461	400	Bibarel	14	19
+#462	401	Kricketot	2	
+#463	402	Kricketune	2	
+#464	403	Shinx	5	
+#465	404	Luxio	5	
+#466	405	Luxray	5	
+#467	408	Cranidos	17	
+#468	409	Rampardos	17	
+#469	410	Shieldon	17	18
+#470	411	Bastiodon	17	18
+#471	412	Burmy	2	
+#472	412	Burmy	2	
+#473	412	Burmy	2	
+#474	413	Wormadam	2	11
+#475	413	Wormadam	2	12
+#476	413	Wormadam	2	18
+#477	414	Mothim	2	9
+#478	415	Combee	2	9
+#479	416	Vespiquen	2	9
+#480	417	Pachirisu	5	
+#481	418	Buizel	19	
+#482	419	Floatzel	19	
+#483	420	Cherubi	11	
+#484	421	Cherrim	11	
+#485	422	Shellos	19	
+#486	422	Shellos	19	
+#487	423	Gastrodon	19	12
+#488	423	Gastrodon	19	12
+#489	203	Girafarig	14	16
+#490	425	Drifloon	10	9
+#491	426	Drifblim	10	9
+#492	427	Buneary	14	
+#493	428	Lopunny	14	
+#494	431	Glameow	14	
+#495	432	Purugly	14	
+#496	434	Stunky	15	3
+#497	435	Skuntank	15	3
+#498	436	Bronzor	18	16
+#499	437	Bronzong	18	16
+#500	441	Chatot	14	9
+#501	442	Spiritomb	10	3
+#502	443	Gible	4	12
+#503	444	Gabite	4	12
+#504	445	Garchomp	4	12
+#505	447	Riolu	7	
+#506	448	Lucario	7	18
+#507	449	Hippopotas	12	
+#508	450	Hippowdon	12	
+#509	451	Skorupi	15	2
+#510	452	Drapion	15	3
+#511	453	Croagunk	15	7
+#512	454	Toxicroak	15	7
+#513	455	Carnivine	11	
+#514	456	Finneon	19	
+#515	457	Lumineon	19	
+#516	459	Snover	11	13
+#517	460	Abomasnow	11	13
+#518	479	Rotom	10	5
+#519	480	Uxie	16	
+#520	481	Mesprit	16	
+#521	482	Azelf	16	
+#522	483	Dialga	18	4
+#523	484	Palkia	19	4
+#524	485	Heatran	8	18
+#525	486	Regigigas	14	
+#526	487	Giratina	10	4
+#527	488	Cresselia	16	
+#528	489	Phione	19	
+#529	490	Manaphy	19	
+#530	491	Darkrai	3	
+#531	492	Shaymin	11	

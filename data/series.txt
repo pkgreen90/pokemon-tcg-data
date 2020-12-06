@@ -1,0 +1,37 @@
+id_series	name
+0	Not Applicable
+1	Original
+2	Neo
+3	Legendary Collection
+4	E-Card
+5	EX
+6	Diamon & Pearl
+7	Platinum
+8	HeartGold & SoulSilver
+9	Call of Legends
+10	Black & White
+11	XY
+12	XY BREAK
+13	Sun & Moon
+14	Miscellaneous Promotional Cards (Years)
+15	Southern Islands
+16	W Promotional Sets
+17	Miscellaneous Releases
+18	POP
+19	Black Star Promos
+20	McDonald’s Collection
+21	World Championship Decks
+22	Original Era
+23	Neo Era
+24	E-Series
+25	ADV Era
+26	PCG Era
+27	DP Era
+28	Dpt Era
+29	Legend Era
+30	BW Era
+31	XY Era
+32	XY Break Era
+33	SM Era
+34	Promotional Sets
+35	Sword & Shield

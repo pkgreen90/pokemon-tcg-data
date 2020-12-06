@@ -1,0 +1,11 @@
+id_ancient_trait	symbol	name	description	effect
+1	α	Growth	When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards.	When an Energy card is attached to the Pokémon from the player's hand without using an Attack, Ability or Trainer card, a second Energy card may be attached if the player has one in their hand.
+2	α	Recovery	When this Pokémon is healed, double the amount healed.	When the Pokémon recovers HP, the amount recovered is doubled.
+3	Ω	Barrage	This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)	This Pokémon may attack twice a turn. (If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.)
+4	Ω	Barrier	Whenever your opponent plays a Trainer card (excluding Pokémon Tools and Stadium cards), prevent all effects of that card done to this Pokémon.	The effects of the opponent's Trainer cards (other than Pokémon Tools and Stadium cards) do not apply to the Pokémon.
+5	Δ	Plus	If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.	When the Pokémon Knocks Out an opposing Pokémon, the player takes one extra Prize card.
+6	Δ	Evolution	You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.	The Pokémon may be played to evolve a Pokémon during the same turn it was put into play, or on the player's first turn.
+7	Δ	Wild	Any damage done to this Pokémon by attacks from your opponent's Grass, Fire, Water, or Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance).	The Pokémon takes 20 less damage from Grass, Fire, Water, and Lightning Pokémon.
+8	θ	Stop	This Pokémon cannot be affected by your opponent's Pokémon's Abilities.	The Pokémon is unaffected by opposing Pokémon's Abilities.
+9	θ	Double	This Pokémon can have 2 Pokémon Tool cards attached to it.	An extra Pokémon Tool can be attached to the Pokémon.
+10	θ	Max	When 1 of your Pokémon becomes this Pokémon, heal all damage from it.	When the Pokémon evolves from a Pokémon in play, all damage counters are removed from it.

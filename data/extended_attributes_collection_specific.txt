@@ -1,0 +1,7 @@
+id_extended_attributes_collection_specific	flag_label	notes
+1	Holofoil	Picture box is holographic
+2	Reverse Holo	Card holo but not picture box or picture box is holo with set name in picture box
+3	First Edition	A card that was released as part of the initial sets. This can be identified by the mark ‘1st Edition’ icon on the front of the card.
+4	Shadowed	General unlimited production card, from Base set, that contains a shadow to the right of the picture as well as containing copyright date ‘1995,96,98’ instead of ‘1995, 96, 98, 99’
+5	Shadowless	Cards that contain a shadow to the right side of the picture (Base set only excluding Machamp card and trainer/energy cards (see dates)). Copyright date is ‘1995, 96, 98, 99 Nintendo Creates GAMEFREAK’ instead of ‘1995,96,98’
+6	Error Card	This card has some form of error or misprint that is different from the general production found in the database.

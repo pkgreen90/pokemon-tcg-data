@@ -1,0 +1,14 @@
+id_extended_attributes_special_pokemon_types	flag_label	notes
+0	Not applicable	This pokemon does not have any special characteristics related to this table
+1	ACE-Spec	This is a special type of trainer card (item) that provides a powerful move. It was introduced in the Boundaries Cross expansion.
+2	EX	Have ex/EX on card with higher than normal hit points.
+3	LEGEND	Have legend after name and artwork pairs with another card.
+4	Lv.X	Contains Lv.X directly after the name. 
+5	M-EX	Mega pokemon are denoted with M-PokemonName-EX as their name and the term “MEGA” in the evolves from section.
+6	Prime	HGSS set which has holo silver border round picture. 
+7	Team Flare Gear	Part of team Flares Gear
+8	Team Flare Hyper gear	Part of team Flares Gear but the Hyper variation
+9	Prism	These are cards that have a Prism logo in their name.
+10	TAG TEAM GX	Cards that have TAG TEAM under their name, typically two items or pokemon on a single card. These cards are typically a GX card but a subset.
+11	Ultra Beast	These are cards that typically have the word “Ultra Beast” within or near the picture element of the card
+12	Ultra Beast GX	These are an extension to the Ultra Beast cards but are classified as a subset of the GX pokemon.
