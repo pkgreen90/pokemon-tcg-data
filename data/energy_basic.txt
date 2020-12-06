@@ -1,0 +1,13 @@
+id_energy_basic	name
+1	Fighting
+2	Fire
+3	Grass
+4	Lightning
+5	Psychic
+6	Water
+7	Darkness
+8	Metal
+9	Fairy
+10	Colorless
+11	Dragon
+12	Special

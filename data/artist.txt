@@ -1,0 +1,213 @@
+id_artist	name
+1	Ken Sugimori
+2	Mitsuhiro Arita
+3	Keiji Kinebuchi
+4	Tomoaki Imakuni
+5	Kagemaru Himeno
+6	Miki Tanaka
+7	Takumi Akabane
+8	Sumiyoshi Kizuki
+9	Shin-ichi Yoshida
+10	Atsuko Nishida
+11	Benimaru Itoh
+12	Hikaru Koike
+13	CR CG Gangs
+14	K. Hoshiba, CR CG gangs
+15	“Big Mama” Tagawa, CR CG gangs
+16	“Big Mama” Togawa & Benimaru Itoh
+17	Aya Kusube
+18	Kimiya Masago
+19	Tomokazu Komiya
+20	Hironobu Yoshida
+21	Naoyo Kimura
+22	Yuka Morii
+23	Yukiko Baba
+24	Toshinao Aoki
+25	Masako Yamashita
+26	Keita Komatsuya, CR CG gangs
+27	Milky Isobe
+28	Hideki Kazama
+29	Shin-ichi Yoshikawa, CR CG gangs
+30	Katsura Tabata, CR CG gangs
+31	Ryuta Kusumi, CR CG gangs
+32	Yousuke Hirata, CR CG gangs
+33	Hiromichi Sugiyama, CR CG gangs
+34	Imakuni?
+35	Jungo Suzuki, CR CG gangs
+36	Etsuya Hattori
+37	Christopher Rush
+38	Hajime Kusajima
+39	Kyoko Umemoto
+40	Hiromichi Sugiyama
+41	K. Hoshiba
+42	Hiroaki Ito
+43	Yuichi Sawayama
+44	Asuka Iwashita
+45	Sachi Matoba
+46	Motofumi Fujiwara
+47	Satoshi Ohta
+48	Aimi Tomita
+49	“Big Mama” Tagawa
+50	Hideyuki Nakajima
+51	Kai Ishikawa
+52	Shin-ichi Yoshikawa
+53	Midori Harada
+54	Mikio Menjo
+55	Kazuo Yazawa
+56	Jungo Suzuki
+57	Hisao Nakamura
+58	Keiko Fukuyama
+59	Hizuki Misono
+60	Kouki Saitou
+61	Katsura Tabata
+62	Ken Ikuji
+63	No Artist
+64	Ryo Ueda
+65	Zu-Ka
+66	K. Utsunomiya
+67	Nakaoka
+68	T. Honda
+69	Mt. TBT
+70	M. Akiyama
+71	Atsuko Ujiie
+72	Yosuke Da Silva
+73	Tokumi Akabane
+74	Masakazu Fukuda
+75	Emi Miwa
+76	Kyoko Koizumi
+77	Sachiko Adachi
+78	Midroi Harada
+79	Tomoko Wakai
+80	Takao Unno
+81	Kenkichi Toyama
+82	Hiroki Fuchino
+83	Kanako Eo
+84	Suwama Chiaki
+85	Shizurow
+86	Takabon
+87	Yasuki Watanabe
+88	Masahiko Ishii
+89	Yusuke Shimada
+90	Mikiko Takeda
+91	Daisuke Ito
+92	Kazuyuki Kano
+93	Emi Yoshida
+94	Yusuke Ohmura
+95	Lee HyunJung
+96	Saya Tsuruta
+97	Kent Kanetsuna
+98	Kazuaki Aihara
+99	Yusuke Ishikawa
+100	Makoto Imai
+101	Ryota Saito
+102	kawayoo
+103	Shin Nagasawa
+104	Wataru Kawahara
+105	TOKIYA
+106	Keiko Moritsugu
+107	Mana Ibe
+108	Nobuyuki Fujimoto
+109	Reiko Tanoue
+110	sui
+111	Naoki Saito
+112	match
+113	MAHOU
+114	Hideaki Hakozaki
+115	Takashi Yamaguchi
+116	Noriko Hotta
+117	Shinji Higuchi
+118	Shinji Higuchi + Sachiko Eba
+119	Shinji Higuchi + Noriko Takaya
+120	Kent Kanetsuna/Direc. Shinji Higuchi
+121	Wataru Kawahara/Direc. Shinji Higuchi
+122	Shinji Higuchi + Sachiko Eba/樋口真嗣 + 江場左知子
+123	Ayaka Yoshida
+124	Shigenori Negishi
+125	Daisuke Iwamoto
+126	Mizue
+127	Akira Komayama
+128	Yuri Umemura
+129	5ban Graphics
+130	Megumi Mizutani
+131	James Turner
+132	Maiko Fujiwara
+133	Tomohiro Kitakaze
+134	Eske Yoshinob
+135	HiRON
+136	Toyste Beach
+137	hatachu
+138	Satoshi Shirai
+139	BERUBURI
+140	Hiroki Asanuma
+141	Kouji Tajima
+142	kirisAki
+143	Sanosuke Sakuma
+144	Hitoshi Ariga
+145	PLANETA
+146	Ryota Murayama
+147	Emi Ando
+148	OOYAMA
+149	miki kudo
+150	DemizuPosuka
+151	Hideki Ishikawa
+152	kodama
+153	Hasuno
+154	Shibuzoh.
+155	Eri Yamaki
+156	Mina Nakai
+157	kanahei
+158	You Iribi
+159	Yumi
+160	Yoshinobu Saito
+161	Anesaki Dynamic
+162	Dr.Ooyama
+163	Hiroyuki Yamamoto
+164	Asako Ito
+165	chibi
+166	0313
+167	so-taro
+168	Sekio
+169	tetsuya koizumi
+170	nagimiso
+171	SATOSHI NAKAI
+172	take
+173	Misa Tsutsui
+174	Studio Bora Inc.
+175	otumami
+176	sowsow
+177	PLANETA Otani
+178	PLANETA Igarashi
+179	HYOGONOSUKE
+180	sadaji
+181	aky CG Works
+182	AKIRA EGAWA
+183	KEIICHIRO ITO
+184	PLANETA Tsuji
+185	ryoma uratsuka
+186	ConceptLab
+187	Uta
+188	Pani Kobayashi
+189	inose yukie
+190	Ryuta Fuse
+191	Ken Sugimori/Yusuke Ohmura
+192	Sakiko Maeda
+193	Junsei Kuninobu
+194	Noriko Uono
+195	Nabana Kensaku
+196	Tomomi Kaneko
+197	Misaki Hashimoto
+198	Fumie Kittaka
+199	Huang Tzu En
+200	Avec Yoko
+201	Taira Akitsu
+202	Megumi Higuchi
+203	Kazuma Koda
+204	Jumpei Akasaka
+205	Hasegawa Saki
+206	Saki Hayashiro
+207	GAME FREAK inc.
+208	MPC Film
+209	Framestore
+210	NC Empire
+211	PLANETA Mochizuki
+212	Tika Matsuno

@@ -1,0 +1,5 @@
+id_action_type	name
+1	Pokémon Power
+2	Poké-Power
+3	Poké-Body
+4	Ability

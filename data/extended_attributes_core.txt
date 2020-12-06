@@ -1,0 +1,12 @@
+id_extended_attributes_core	flag_label	notes
+1	Holofoil	Picture box is holographic and were intended to be Holographic cards. This is different to secret holo cards.
+2	Promo	These cards are released during a competition or promotional. Such promotional cards include Black Star promo cards.
+3	Fixed	The card has no specific rarity symbol and instead has a silhouette of the primary pokemon from the kit it was contained in. The kits includes those such as trainer kits.
+4	Shining	They are Basic pokemon (have the basic flag) even in the evolved form with the word shining in the name, before the Pokemon names. They can also be seen with 3 rarity stars instead of 1 and are typically secret cards (exceed the set card count).
+5	Secret Count	Card number exceeds the normal card count for the set (e.g. 145/140).
+6	Series Crossover	Cards that cross over multiple sets in a single series and typically have a letter in their card number (e.g. SH1)
+7	Special Pokemon Types	These are cards that have special meaning behind them and relate to the table extended_attributes_special_pokemon_types
+8	Full Art	Typically textured card with full cards artwork.
+9	Gold Star	Have a gold star after name and number is near end of set.
+10	Regular Art	Same as full art but only half the card has artwork. The details box does not contain any of the full art artwork.
+11	Special Pokemon	These pokemon are designated to be special and have extra characters after their name. These are linked to the extended_attributes_special_pokemon table.

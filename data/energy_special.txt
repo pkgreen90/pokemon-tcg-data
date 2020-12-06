@@ -1,0 +1,69 @@
+id_energy_special	name
+1	Double Colorless
+2	Full Heal
+3	Potion
+4	Rainbow
+5	Darkness
+6	Metal
+7	Recycle
+8	Miracle
+9	Boost
+10	Crystal
+11	Warp
+12	Bounce
+13	Cyclone
+14	Retro
+15	Multi
+16	Double Rainbow
+17	Aqua
+18	Magma
+19	Dark Metal
+20	R
+21	Heal
+22	Scramble
+23	Holon GL
+24	Holon FF
+25	Holon WP
+26	React
+27	δ Rainbow
+28	Call
+29	Health
+30	Recover
+31	SP
+32	Upper
+33	Rescue
+34	Prism
+35	Blend GFPD
+36	Blend WLFM
+37	Plasma
+38	Herbal
+39	Strong
+40	Mystery
+41	Shield
+42	Wonder
+43	Double Aqua
+44	Double Magma
+45	Double Dragon
+46	Flash
+47	Dangerous
+48	Burning
+49	Splash
+50	Counter
+51	Super Boost
+52	Unit (Grass, Fire and Water)
+53	Unit (Lightning, Psychic and Metal)
+54	Unit (Fighting, Darkness and Fairy)
+55	Beast
+56	Memory
+57	Triple Accelerations
+58	Weakness Guard
+59	Triple Acceleration
+60	Draw
+61	Aurora
+62	Capture
+63	Horror Psychic
+64	Speed Lightning
+65	Twin
+66	Heat Fire
+67	Hiding Darkness
+68	Powerful Colorless

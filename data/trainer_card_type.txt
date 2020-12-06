@@ -1,0 +1,914 @@
+id_trainer_card_types	name
+1	Aaron's Collection
+2	Ace Trainer
+3	Acerola
+4	Acro Bike
+5	Adventure Bag
+6	Aerodactyl Spirit Link
+7	Aether Foundation Employee
+8	Aether Paradise Conservation Area
+9	Aggron Spirit Link
+10	Alakazam Spirit Link
+11	All-Night Party
+12	Alph Lithograph
+13	Altar of the Moone
+14	Altar of the Sunne
+15	Altaria Spirit Link
+16	Ampharos Spirit Link
+17	Amulet Coin
+18	Ancient Crystal
+19	Ancient Ruins
+20	Ancient Technical Machine [Ice]
+21	Ancient Technical Machine [Rock]
+22	Ancient Technical Machine [Steel]
+23	Ancient Tomb
+24	Apricorn Forest
+25	Apricorn Maker
+26	Aqua Diffuser
+27	Aqua Patch
+28	Arcade Game
+29	Archie
+30	Archie's Ace in the Hole
+31	Armor Fossil
+32	Armor Fossil Shieldon
+33	Aspertia City Gym
+34	Assault Vest
+35	Audino Spirit Link
+36	AZ
+37	Balloon Berry
+38	Battle City
+39	Battle Compressor
+40	Battle Frontier
+41	Battle Reporter
+42	Battle Tower
+43	Beast Ball
+44	Beast Ring
+45	Bebe's Search
+46	Beedrill Spirit Link
+47	Beginning Door
+48	Bench Shield
+49	Bent Spoon
+50	Berry
+51	Bertha's Warmth
+52	Bianca
+53	Bicycle
+54	Big Malasada
+55	Bill
+56	Bill's Analysis
+57	Bill's Maintenance
+58	Bill's Teleporter
+59	Black Belt
+60	Black Market
+61	Blacksmith
+62	Blaine
+63	Blaine's Gamble
+64	Blaine's Last Resort
+65	Blaine's Last Stand
+66	Blaine's Quiz #1
+67	Blaine's Quiz #2
+68	Blaine's Quiz #3
+69	Blastoise Spirit Link
+70	Bodybuilding Dumbbells
+71	Bonnie
+72	Brigette
+73	Brock
+74	Brock's Grit
+75	Brock's Protection
+76	Brock's Training Method
+77	Broken Ground Gym
+78	Broken Time-Space
+79	Brooklet Hill
+80	Bubble Coat
+81	Buck's Training
+82	Buddy-Buddy Rescue
+83	Buff Padding
+84	Buffer Piece
+85	Burned Tower
+86	Bursting Balloon
+87	Caitlin
+88	Camerupt Spirit Link
+89	Captivating Poké Puff
+90	Card-Flip Game
+91	Cassius
+92	Castaway
+93	Cedric Juniper
+94	Celadon City Gym
+95	Celio's Network
+96	Cerulean City Gym
+97	Cessation Crystal
+98	Challenge!
+99	Champion's Room
+100	Champions Festival
+101	Championship Arena
+102	Chaos Gym
+103	Chaos Tower
+104	Charity
+105	Charizard Spirit Link
+106	Cheerleader's Cheer
+107	Cheren
+108	Choice Band
+109	Choice Helmet
+110	Cilan
+111	Cinnabar City Gym
+112	Claw Fossil
+113	Claw Fossil Anorith
+114	Clefairy Doll
+115	Clemont
+116	Colress
+117	Colress Machine
+118	Computer Error
+119	Computer Search
+120	Conductive Quarry
+121	Copycat
+122	Counter Catcher
+123	Counter Gain
+124	Counterattack Claws
+125	Cover Fossil
+126	Crasher Wake
+127	Crushing Hammer
+128	Crystal Beach
+129	Crystal Edge
+130	Crystal Shard
+131	Crystal Wall
+132	Curse Powder
+133	Cursed Stone
+134	Custom Catcher
+135	Cynthia
+136	Cynthia's Feelings
+137	Cynthia's Guidance
+138	Cyrus
+139	Cyrus's Conspiracy
+140	Cyrus's Initiative
+141	Damage Mover
+142	Dana
+143	Dangerous Drill
+144	Dark Claw
+145	Dark Patch
+146	Darkness Cube 01
+147	Dashing Pouch
+148	Dawn Stadium
+149	Defender
+150	Delinquent
+151	Department Store Girl
+152	Desert Ruins
+153	Desert Shaman
+154	Devolution Spray
+155	Devoured Field
+156	Diantha
+157	Digger
+158	Dimension Valley
+159	Dive Ball
+160	Dome Fossil
+161	Dome Fossil Kabuto
+162	Double Full Heal
+163	Double Gust
+164	Dowsing Machine
+165	Dragon Talon
+166	Drake's Stadium
+167	Dual Ball
+168	Dusk Ball
+169	Eco Arm
+170	Ecogym
+171	Electric Memory
+172	Electrocharger
+173	Electropower
+174	Elesa
+175	Emcee's Chatter
+176	Eneporter
+177	Energy Amplifier
+178	Energy Ark
+179	Energy Charge
+180	Energy Exchanger
+181	Energy Flow
+182	Energy Link
+183	Energy Loto
+184	Energy Pickup
+185	Energy Pouch
+186	Energy Recycle
+187	Energy Recycle System
+188	Energy Recycler
+189	Energy Removal
+190	Energy Removal 2
+191	Energy Reset
+192	Energy Restore
+193	Energy Retrieval
+194	Energy Returner
+195	Energy Root
+196	Energy Search
+197	Energy Stadium
+198	Energy Switch
+199	Engineer's Adjustments
+200	Enhanced Hammer
+201	Erika
+202	Erika's Hospitality
+203	Erika's Kindness
+204	Erika's Maids
+205	Erika's Perfume
+206	Escape Board
+207	Escape Rope
+208	Escpae Rope
+209	Ether
+210	Evelyn
+211	Eviolite
+212	Evosoda
+213	Exp. Share
+214	EXP.ALL
+215	Expert Belt
+216	Faba
+217	Faded Town
+218	Fairy Charm Dragon
+219	Fairy Charm Fire
+220	Fairy Charm Grass
+221	Fairy Charm Psychic
+222	Fairy Charm UB
+223	Fairy Drop
+224	Fairy Garden
+225	Fast Ball
+226	Felicity's Drawing
+227	Fervor
+228	Field Blower
+229	Fieldworker
+230	Fiery Flint
+231	Fiery Torch
+232	Fighting Cube 01
+233	Fighting Fury Belt
+234	Fighting Memory
+235	Fighting Stadium
+236	Fire Cube 01
+237	Fire Memory
+238	First Ticket
+239	Fisherman
+240	Flint's Willpower
+241	Float Stone
+242	Floral Crown
+243	Flower Shop Lady
+244	Fluffy Berry
+245	Focus Band
+246	Focus Sash
+247	Forest Guardian
+248	Forest of Giant Plants
+249	Fossil Egg
+250	Fossil Excavation Kit
+251	Fossil Excavation Map
+252	Fossil Excavator
+253	Fossil Researcher
+254	Fresh Water Set
+255	Friend Ball
+256	Frozen City
+257	Fuchsia City Gym
+258	Full Flame
+259	Full Heal
+260	G Booster
+261	G Scope
+262	Galactic HQ
+263	Gallade Spirit Link
+264	Gambler
+265	Garchomp Spirit Link
+266	Gardenia
+267	Gardevoir Spirit Link
+268	Gengar Spirit Link
+269	Ghetsis
+270	Giant Cape
+271	Giant Stump
+272	Giovanni
+273	Giovanni's Last Resort
+274	Giovanni's Scheme
+275	Glacia's Stadium
+276	Gladion
+277	Glalie Spirit Link
+278	Gold Berry
+279	Gold Potion
+280	Good Manners
+281	Good Rod
+282	Goop Gas Attack
+283	Grass Cube 01
+284	Grass Memory
+285	Great Ball
+286	Greedy Dice
+287	Groudon Spirit Link
+288	Gust of Wind
+289	Guzma
+290	Gyarados Spirit Link
+291	Gym Badge
+292	Hala
+293	Hand Scope
+294	Hard Charm
+295	Hau
+296	Head Ringer
+297	Heal Powder
+298	Healing Berry
+299	Healing Field
+300	Healing Scarf
+301	Heat Factory
+302	Heavy Ball
+303	Heavy Boots
+304	Helix Fossil
+305	Helix Fossil Omanyte
+306	Here Comes Team Rocket!
+307	Hex Maniac
+308	High Pressure System
+309	Hiker
+310	Holon Adventurer
+311	Holon Circle
+312	Holon Farmer
+313	Holon Fossil
+314	Holon Lake
+315	Holon Lass
+316	Holon Legacy
+317	Holon Mentor
+318	Holon Research Tower
+319	Holon Researcher
+320	Holon Ruins
+321	Holon Scientist
+322	Holon Transceiver
+323	Hooligans Jim & Cas
+324	Houndoom Spirit Link
+325	Hugh
+326	Hustle Belt
+327	Hyper Devolution Spray
+328	Hyper Potion
+329	Hypnotoxic Laser
+330	Ilima
+331	Imakuni?
+332	Imposter Oak's Revenge
+333	Imposter Professor Oak
+334	Impostor Professor Oak's Invention
+335	Indigo Plateau
+336	Ingo & Emmet
+337	Interviewer's Questions
+338	Iris
+339	Island Cave
+340	Island Hermit
+341	Item Finder
+342	Jamming Net
+343	Jasmine
+344	Jaw Fossil
+345	Judge
+346	Judge Whistle
+347	Juggler
+348	Junk Arm
+349	Kahili
+350	Karen
+351	Kiawe
+352	Koga
+353	Koga's Ninja Trick
+354	Korrina
+355	Kyogre Spirit Link
+356	Lady
+357	Lady Outing
+358	Lake Boundary
+359	Lana
+360	Lance
+361	Lanette's Net Search
+362	Lass
+363	Lass's Special
+364	Last Chance Potion
+365	Latios Spirit Link
+366	Lavender Town
+367	Leftovers
+368	Legend Box
+369	Level Ball
+370	Level Max
+371	Life Dew
+372	Life Forest
+373	Life Herb
+374	Lightning Cube 01
+375	Lillie
+376	Lisia
+377	Looker
+378	Looker Whistle
+379	Looker's Investigation
+380	Lost Blender
+381	Lost Remover
+382	Lost World
+383	Low Pressure System
+384	Lt. Surge
+385	Lt. Surge's Secret Plan
+386	Lt. Surge's Treaty
+387	Lucario Spirit Link
+388	Lucian's Assignment
+389	Lucky Egg
+390	Lucky Helmet
+391	Lucky Stadium
+392	Lum Berry
+393	Lure Ball
+394	Lusamine
+395	Luxury Ball
+396	Lysandre
+397	Lysandre Labs
+398	Lysandre's Trump Card
+399	Magma Pointer
+400	Magnetic Storm
+401	Magnifier
+402	Mail from Bill
+403	Maintenance
+404	Mallow
+405	Manectric Spirit Link
+406	Marley's Request
+407	Mars
+408	Mary
+409	Mary's Impulse
+410	Mary's Request
+411	Master Ball
+412	Mawile Spirit Link
+413	Max Elixir
+414	Max Potion
+415	Max Revive
+416	Maxie
+417	Maxie's Hidden Ball Trick
+418	Mega Catcher
+419	Mega Turbo
+420	Memory Berry
+421	Metal Cube 01
+422	Metal Frying Pan
+423	Metal Goggles
+424	Meteor Falls
+425	Mewtwo Spirit Link
+426	Miasma Valley
+427	Mina
+428	Minion of Team Rocket
+429	Miracle Berry
+430	Miracle Sphere α
+431	Miracle Sphere β
+432	Miracle Sphere γ
+433	Mirage Stadium
+434	Missing Clover
+435	Misty
+436	Misty's Determination
+437	Misty's Duel
+438	Misty's Tears
+439	Misty's Wish
+440	Misty's Wrath
+441	Mixed Herbs
+442	Mom's Kindness
+443	Moo-Moo Milk
+444	Moomoo Milk
+445	Moonlight Stadium
+446	Morgan
+447	Morty
+448	Mount Lanakila
+449	Mountain Ring
+450	Mr. Briney's Compassion
+451	Mr. Fuji
+452	Mr. Stone's Project
+453	Mt. Coronet
+454	Mt. Moon
+455	Multi Switch
+456	Multi Technical Machine 01
+457	Muscle Band
+458	Mysterious Fossil
+459	Mysterious Shard
+460	Mysterious Treasure
+461	Mystery Plate α
+462	Mystery Plate β
+463	Mystery Plate γ
+464	Mystery Plate δ
+465	Mystery Zone
+466	N
+467	Nanu
+468	Narrow Gym
+469	Nest Ball
+470	Net Ball
+471	New Pokédex
+472	Night Maintenance
+473	Night Pokémon Center
+474	Night Teleporter
+475	Nightly Garbage Run
+476	Ninja Boy
+477	Nita
+478	No Removal Gym
+479	No. 1 Trainer
+480	No. 2 Trainer
+481	No. 3 Trainer
+482	No. 4 Trainer
+483	Old Amber
+484	Old Amber Aerodactyl
+485	Old Rod
+486	Olivia
+487	Olympia
+488	Oracle
+489	Oran Berry
+490	Order Pad
+491	Paint Roller
+492	Pal Pad
+493	Palmer's Contribution
+494	Parallel City
+495	Peeking Red Card
+496	Pewter City Gym
+497	Phoebe's Stadium
+498	Pidgeot Spirit Link
+499	Plasma Frigate
+500	Plume Fossil
+501	Plumeria
+502	PlusPower
+503	Po Town
+504	Poison Barb
+505	Poké Ball
+506	Poké Blower +
+507	Poké Drawer +
+508	Poké Healer +
+509	Poké Radar
+510	Pokédex
+511	PokéDex HANDY909
+512	Pokédex HANDY910is
+513	PokéGear
+514	Pokégear 3.0
+515	Pokémon Breeder
+516	Pokémon Breeder Fields
+517	Pokémon Catcher
+518	Pokémon Center
+519	Pokémon Center Lady
+520	Pokémon Circulator
+521	Pokémon Collector
+522	Pokémon Communication
+523	Pokémon Contest Hall
+524	Pokémon Fan Club
+525	Pokémon Flute
+526	Pokémon March
+527	Pokémon Nurse
+528	Pokémon Park
+529	Pokémon Personality Test
+530	Pokémon Ranger
+531	Pokémon Rescue
+532	Pokémon Retriever
+533	Pokémon Reversal
+534	Pokémon Tower
+535	Pokémon Trader
+536	PokéNav
+537	Potion
+538	Pow! Hand Extension
+539	Power Charge
+540	Power Memory
+541	Power Plant
+542	Power Tree
+543	Premier Ball
+544	Professor Birch
+545	Professor Birch's Observations
+546	Professor Cozmo's Discovery
+547	Professor Elm
+548	Professor Elm's Lecture
+549	Professor Elm's Training Method
+550	Professor Juniper
+551	Professor Kukui
+552	Professor Oak
+553	Professor Oak's Hint
+554	Prof. Oak's New Theory
+555	Prof. Oak's Research
+556	Prof. Oak's Visit
+557	Professor Rowan
+558	Professor Sycamore
+559	Professor's Letter
+560	Protection Cube
+561	Protective Orb
+562	Psychic Cube 01
+563	Psychic Memory
+564	Psychic's Third Eye
+565	Puzzle of Time
+566	Quick Ball
+567	Radio Tower
+568	Rainbow Brush
+569	Random Receiver
+570	Rare Candy
+571	Rayquaza Spirit Link
+572	Recall
+573	Recycle
+574	Red Card
+575	Relic Hunter
+576	Repeat Ball
+577	Repel
+578	Rescue Scarf
+579	Rescue Stretcher
+580	Research Record
+581	Reserved Ticket
+582	Resistance Gym
+583	Return Label
+584	Reversal Trigger
+585	Reverse Valley
+586	Revitalizer
+587	Revive
+588	Rival
+589	Robo Substitute
+590	Rock Guard
+591	Rocket's Admin.
+592	Rocket's Hideout
+593	Rocket's Minefield Gym
+594	Rocket's Mission
+595	Rocket's Poké Ball
+596	Rocket's Secret Experiment
+597	Rocket's Sneak Attack
+598	Rocket's Tricky Gym
+599	Rocky Helmet
+600	Roller Skates
+601	Root Fossil
+602	Root Fossil Lileep
+603	Roseanne's Research
+604	Rotom Dex
+605	Rotom Dex Poké Finder Mode
+606	Rough Seas
+607	Ruin Wall
+608	Ruins of Alph
+609	Sabrina
+610	Sabrina's ESP
+611	Sabrina's Gaze
+612	Sabrina's Psychic Control
+613	Sabrina's Suggestion
+614	Sacred Ash
+615	Saffron City Gym
+616	Sage's Training
+617	Sail Fossil
+618	Salamence Spirit Link
+619	Sceptile Spirit Link
+620	Scizor Spirit Link
+621	Scoop Up
+622	Scoop Up Cyclone
+623	Scorched Earth
+624	Scott
+625	Scramble Switch
+626	Sea of Nothingness
+627	Secret Mission
+628	Seeker
+629	Seer
+630	Shadow Circle
+631	Shadow Triad
+632	Sharpedo Spirit Link
+633	Shauna
+634	Shrine of Memories
+635	Shrine of Punishment
+636	Sidney's Stadium
+637	Sightseer
+638	Silent Lab
+639	Silver Bangle
+640	Silver Mirror
+641	Sitrus Berry
+642	Skull Fossil
+643	Sky Field
+644	Sky Pillar
+645	Skyarrow Bridge
+646	Skyla
+647	Sleep!
+648	Slowbro Spirit Link
+649	Snowpoint Temple
+650	Solid Rage
+651	Sophocles
+652	Space Center
+653	Sparkling Robe
+654	Special Charge
+655	Speed Stadium
+656	Spell Tag
+657	Sprout Tower
+658	Star Piece
+659	Stark Mountain
+660	Startling Megaphone
+661	Steel Shelter
+662	Steelix Spirit Link
+663	Steven
+664	Steven's Advice
+665	Steven's Resolve
+666	Strange Cave
+667	Strength Charm
+668	Sunyshore City Gym
+669	Super Energy Removal
+670	Super Energy Removal 2
+671	Super Energy Retrieval
+672	Super Potion
+673	Super Rod
+674	Super Scoop Up
+675	Superior Energy Retrieval
+676	Surprise! Time Machine
+677	Switch
+678	Switch Raft
+679	Swoop! Teleporter
+680	Target Whistle
+681	Tate & Liza
+682	Team Aqua Admin
+683	Team Aqua Ball
+684	Team Aqua Belt
+685	Team Aqua Conspirator
+686	Team Aqua Grunt
+687	Team Aqua Hideout
+688	Team Aqua Schemer
+689	Team Aqua Technical Machine 01
+690	Team Aqua's Great Ball
+691	Team Aqua's Secret Base
+692	Team Flare Grunt
+693	Team Galactic's Invention G-101 Energy Gain
+694	Team Galactic's Invention G-103 Power Spray
+695	Team Galactic's Invention G-105 Poké Turn
+696	Team Galactic's Invention G-107 Technical Machine
+697	Team Galactic's Invention G-109 SP Radar
+698	Team Galactic's Mars
+699	Team Galactic's Wager
+700	Team Magma Admin
+701	Team Magma Ball
+702	Team Magma Belt
+703	Team Magma Conspirator
+704	Team Magma Grunt
+705	Team Magma Hideout
+706	Team Magma Schemer
+707	Team Magma Technical Machine 01
+708	Team Magma's Great Ball
+709	Team Magma's Secret Base
+710	Team Plasma Badge
+711	Team Plasma Ball
+712	Team Plasma Grunt
+713	Team Rocket's Evil Deeds
+714	Team Rocket's Handiwork
+715	Team Rocket's Trickery
+716	Team Skull Grunt
+717	Teammates
+718	Technical Machine TS-1
+719	Technical Machine TS-2
+720	The Boss's Way
+721	The Masked Royal
+722	The Rocket's Training Gym
+723	The Rocket's Trap
+724	Thought Wave Machine
+725	Thunder Mountain
+726	Tickling Machine
+727	Tierno
+728	Time Capsule
+729	Time Shard
+730	Timer Ball
+731	Tool Retriever
+732	Tool Scrapper
+733	Tormenting Spray
+734	Town Map
+735	Town Volunteers
+736	Trainers' Mail
+737	Training Center
+738	Transparent Walls
+739	Trash Exchange
+740	Traveling Salesman
+741	Trevor
+742	Trick Coin
+743	Trick Shovel
+744	Tropical Beach
+745	Tropical Tidal Wave
+746	Tropical Wind
+747	TV Reporter
+748	Twins
+749	Twist Mountain
+750	Tyranitar Spirit Link
+751	Ultimate Zone
+752	Ultra Ball
+753	Ultra Recon Squad
+754	Ultra Space
+755	Underground Expedition
+756	Underground Lake
+757	Undersea Ruins
+758	Unidentified Fossil
+759	Venture Bomb
+760	Venusaur Spirit Link
+761	Vermilion City Gym
+762	Victory Cup
+763	Victory Medal
+764	Victory Piece
+765	Virbank City Gym
+766	Viridian City Gym
+767	Viridian Forest
+768	Volkner
+769	Volkner's Philosophy
+770	VS Seeker
+771	Wait and See Hammer
+772	Wally
+773	Wally's Training
+774	Warp Point
+775	Water Cube 01
+776	Water Memory
+777	Weakness Guard
+778	Weakness Policy
+779	Wela Volcano Park
+780	Whitney
+781	Wicke
+782	Wide Lens
+783	Windstorm
+784	Winona
+785	Wishful Baton
+786	Wondrous Labyrinth
+787	Xerosic
+788	Xtransceiver
+789	Zinnia
+790	Time-Space Distortion
+791	Professor Oak's Visit
+792	Charon's Choice
+793	Professor Oak's New Theory
+794	Beast Bringer
+795	Chip-Chip Ice Axe
+796	Devolution Spray Z
+797	Dusk Stone
+798	Dust Island
+799	Electromagnetic Radar
+800	Energy Spinner
+801	Fairy Charm Ability
+802	Fairy Charm Lightning
+803	Fire Crystal
+804	Surprise Box
+805	Cherish Ball
+806	Reset Stamp
+807	Tag Switch
+808	Ear-Ringing Bell
+809	Great Potion
+810	Stadium Nav
+811	Great Catcher
+812	Lana's Fishing Rod
+813	Lillie's Poké Doll
+814	Tag Call
+815	Fairy Charm Fighting
+816	Metal Core Barrier
+817	Flyinium Z: Air Slash
+818	Giant Bomb
+819	Karate Belt
+820	Normalium Z: Tackle
+821	U-Turn Board
+822	Stealthy Hood
+823	Beastite
+824	Dragonium Z: Dragon Claw
+825	Island Challenge Amulet
+826	Martial Arts Dojo
+827	Blizzard Town
+828	Dark City
+829	Giant Hearth
+830	Pokémon Research Lab
+831	Slumbering Forest
+832	Brock's Pewter City Gym
+833	Misty's Cerulean City Gym
+834	Chaotic Swell
+835	Giovanni's Exile
+836	Green's Exploration
+837	Janine
+838	Koga's Trap
+839	Lt. Surge's Strategy
+840	Molayne
+841	Red's Challenge
+842	Samson Oak
+843	Ultra Forest Kartenvoy
+844	Welder
+845	Blaine's Quiz Show
+846	Blue's Tactics
+847	Bug Catcher
+848	Channeler
+849	Coach Trainer
+850	Grimsley
+851	Hapu
+852	Misty's Favor
+853	Poké Maniac
+854	Brock's Training
+855	Jessie & James
+856	Misty's Water Command
+857	Bellelba & Brycen-Man
+858	Clay
+859	Cynthia & Caitlin
+860	Guzma & Hala
+861	Lillie's Full Force
+862	Mallow & Lana
+863	Misty & Lorelei
+864	N's Resolve
+865	Professor Oak's Setup
+866	Red & Blue
+867	Roller Skater
+868	Rosa
+869	Roxie
+870	Will
+871	Air Balloon
+872	Bede
+873	Big Charm
+874	Evolution Incense
+875	Hop
+876	Marnie
+877	Metal Saucer
+878	Ordinary Rod
+879	Poké Kid
+880	Professor's Research (Professor Magnolia)
+881	Rotom Bike
+882	Team Yell Grunt
+883	Boss's Orders (Giovanni)
+884	Burning Scarf
+885	Capacious Bucket
+886	Cursed Shovel
+887	Dan
+888	Galar Mine
+889	Milo
+890	Nugget
+891	Oleana
+892	Scoop Up Net
+893	Sonia
+894	Training Court
+895	Turffield Stadium
+896	Vitality Band
+897	Big Parasol
+898	Billowing Smoke
+899	Bird Keeper
+900	Cape of Toughness
+901	Familiar Bell
+902	Glimwood Tangle
+903	Kabu
+904	Old PC
+905	Piers
+906	Pokémon Breeder's Nurturing
+907	Rare Fossil
+908	Rose
+909	Rose Tower
+910	Spikemuth
+911	Struggle Gloves
+912	Turbo Patch
+913	Yell Horn

@@ -1,0 +1,10 @@
+id_trainer_category	name
+1	Trainer
+2	Ace Spec
+3	Item
+4	Stadium
+5	Supporter
+6	Technical Machine
+7	Rocket’s Secret Machine
+8	Goldenrod Game Corner
+9	Tool

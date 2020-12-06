@@ -1,0 +1,5 @@
+id_rarity	name	notes
+1	Common	The most common of all cards and are recognised by a solid black circle.
+3	Rare	A solid black star and first level of the rarest kind.
+2	Uncommon	Slightly less availability of this card when compare to the common and recognised by a solid black diamond.
+4	Not Applicable	This card does not have rarity symbol and uses the extended attributes section. There may be another symbol in the place of the rarity symbol.

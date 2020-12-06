@@ -1,0 +1,12 @@
+id_pokemon_region	name
+0	UNKNOWN
+1	Kanto
+2	Johnto
+3	Hoenn
+4	Sinnoh
+5	Unova
+6	Kalos (Central)
+7	Kalos (Coastal)
+8	Kalos (Mountain)
+9	Alola
+10	Galar
