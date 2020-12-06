@@ -1,0 +1,32 @@
+@startuml pokemon-card-relationships
+
+entity "action" as action {}
+entity "ancient_trait" as ancient_trait {}
+entity "artist" as artist {}
+entity "attack" as attack {}
+entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
+entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {}
+entity "pokedex" as pokedex {}
+entity "pokedex_type" as pokedex_type {}
+entity "pokemon_card" as pokemon_card {}
+entity "pokemon_category" as pokemon_category {}
+entity "rarity" as rarity {}
+entity "resistence_lookup" as resistence_lookup {}
+entity "set" as set {}
+entity "weakness_lookup" as weakness_lookup {}
+
+pokemon_card ||..right|{ action
+pokemon_card ||..left|| ancient_trait
+pokemon_card ||..up|| artist
+pokemon_card ||..up|{ attack
+pokemon_card ||..|| extended_attributes_special_pokemon
+pokemon_card ||..up|| extended_attributes_special_pokemon_type
+pokemon_card ||..|{ pokedex
+pokemon_card ||..down|{ pokedex_type
+pokemon_card ||..down|| pokemon_category
+pokemon_card ||..down|| rarity
+pokemon_card ||..left|{ resistence_lookup
+pokemon_card ||..right|| set
+pokemon_card ||..right|{ weakness_lookup
+
+@enduml

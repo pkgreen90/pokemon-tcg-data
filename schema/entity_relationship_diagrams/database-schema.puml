@@ -1,0 +1,307 @@
+@startuml database-schema
+
+entity "action" as action {
+    *id_action : integer
+    --
+    id_action_type : integer <<FK>>
+    name : text
+    text : text
+}
+
+entity "action_type" as action_type {
+    *id_action_type : integer
+    --
+    name : text
+}
+
+entity "ancient_trait" as ancient_trait {
+    *id_ancient_trait : integer
+    --
+    symbol : text
+    name : text
+    description : text
+    effect : text
+}
+
+entity "artist" as artist {
+    *id_artist : integer
+    --
+    name : text
+}
+
+entity "attack" as attack {
+    *id_attack : integer
+    --
+    name : text
+    type_1 : integer <<FK>>
+    type_2 : integer <<FK>>
+    type_3 : integer <<FK>>
+    type_4 : integer <<FK>>
+    type_5 : integer <<FK>>
+    value : text
+    text : text
+}
+
+entity "diamond_and_pearl_pokedex" as diamond_and_pearl_pokedex {
+    *id_diamond_and_pearl_pokedex : integer
+    --
+    id_national_index : integer <<FK>>
+    pokemon_name : text
+    *id_pokedex_type_1 : integer <<FK>>
+    *id_pokedex_type_2 : integer <<FK>>
+}
+
+entity "energy_card" as energy_card {
+    *id_energy_card : integer
+    --
+    card_number : integer
+    card_number_special : text
+    *id_rarity : integer <<FK>>
+    *id_energy_basic : integer <<FK>>
+    *id_energy_special : integer <<FK>>
+    *id_set : integer <<FK>>
+    *id_artist : integer <<FK>>
+    card_text : text
+    additional_rule_1 : text
+    holofoil : integer
+    promo : integer
+    fixed : integer
+    shining : integer
+    secret : integer
+    series_crossover : integer
+    *id_special_pokemon_type : integer <<FK>>
+    full_art : integer
+    gold_star : integer
+    regular_art : integer
+    *id_special_pokemon : integer <<FK>>
+}
+
+entity "energy_basic" as energy_basic {
+    *id_energy_basic : integer
+    --
+    name : text
+}
+
+entity "energy_special" as energy_special {
+    *id_energy_special : integer
+    --
+    name : text
+}
+
+entity "extended_attributes_collection_specific" as extended_attributes_collection_specific {
+    *id_extended_attributes_collection_specific : integer
+    --
+    flag_label : text
+    notes : text
+}
+
+entity "extended_attributes_core" as extended_attributes_core {
+    *id_extended_attributes_core : integer
+    --
+    flag_label : text
+    notes : text
+}
+
+entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {
+    *id_extended_attributes_special_pokemon : integer
+    --
+    flag_label : text
+    notes : text
+}
+
+entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {
+    *id_extended_attributes_special_pokemon_type : integer
+    --
+    flag_label : text
+    notes : text
+}
+
+entity "generation" as generation {
+    *id_generation : integer
+    --
+    name : text
+}
+
+entity "geographic_region" as geographic_region {
+    *id_geographic_region : integer
+    --
+    name : text
+}
+
+entity "pokedex" as pokedex {
+    *id_pokedex : integer
+    --
+    *id_pokemon_region : integer <<FK>>
+    region_number : integer
+    national_index : integer
+    alternative_name : text
+    name : text
+    *id_pokedex_type_1 : integer <<FK>>
+    *id_pokedex_type_2 : integer <<FK>>
+    *id_generation : integer <<FK>>
+}
+
+entity "pokedex_type" as pokedex_type {
+    *id_pokedex_type : integer
+    --
+    name : text
+}
+
+entity "pokemon_card" as pokemon_card {
+    *id_pokemon_card : integer
+    --
+    card_name : text
+    card_number : integer
+    card_number_special : text
+    *id_rarity : integer <<FK>>
+    *id_national_index : integer <<FK>>
+    *id_pokemon_category : integer <<FK>>
+    *id_pokedex_type_1 : integer <<FK>>
+    *id_pokedex_type_2 : integer <<FK>>
+    id_set : integer <<FK>>
+    level : text
+    retreat_cost : text
+    hp : text
+    *id_evolves_from : integer <<FK>>
+    *id_weakness_1 : integer <<FK>>
+    *id_weakness_2 : integer <<FK>>
+    *id_resistance_1 : integer <<FK>>
+    *id_resistance_2 : integer <<FK>>
+    *id_attack_1 : integer <<FK>>
+    *id_attack_2 : integer <<FK>>
+    *id_attack_3 : integer <<FK>>
+    *id_attack_4 : integer <<FK>>
+    *id_action_1 : integer <<FK>>
+    *id_action_2 : integer <<FK>>
+    *id_ancient_trait : integer <<FK>>
+    id_artist : integer <<FK>>
+    additional_note_1 : text
+    additional_note_2 : text
+    holofoil : integer
+    promo : integer
+    fixed : integer
+    shining : integer
+    secret : integer
+    series_crossover : integer
+    special_pokemon_type : integer <<FK>>
+    full_art : integer
+    gold_star : integer
+    regular_art : integer
+    special_pokemon : integer <<FK>>
+}
+
+entity "pokemon_region" as pokemon_region {
+    *id_pokemon_region : integer
+    --
+    name : text
+}
+
+entity "pokemon_category" as pokemon_category {
+    *id_pokemon_category : integer
+    --
+    name : text
+}
+
+entity "rarity" as rarity {
+    *id_rarity : integer
+    --
+    name : text
+    notes : text
+}
+
+entity "resistence_lookup" as resistence_lookup {
+    *id_resistence_lookup : integer
+    --
+    id_type : integer <<FK>>
+    value : text
+}
+
+entity "series" as series {
+    *id_series : integer
+    --
+    name : text
+}
+
+entity "set" as set {
+    *id_set : integer
+    --
+    set_number : integer
+    name : text
+    is_subset : integer
+    *id_series : integer <<FK>>
+    card_count : integer
+    secret_count : integer
+    release_date : text
+    id_geographic_region : integer <<FK>>
+    notes : text
+}
+
+entity "trainer_card" as trainer_card {
+    *id_trainer_card : integer
+    --
+    card_name : text
+    card_number : integer
+    card_number_special : text
+    *id_rarity : integer <<FK>>
+    *id_trainer_type : integer <<FK>>
+    *id_trainer_category : integer <<FK>>
+    *id_set : integer
+    card_text : text
+    *id_artist : integer <<FK>>
+    *id_attack : integer <<FK>>
+    *id_action : integer <<FK>>
+    hp : text
+    card_rule_1 : text
+    ace_spec_rule_1 : text
+    tool_rule_1 : text
+    prism_rule_1 : text
+    holofoil : integer
+    promo : integer
+    fixed : integer
+    shining : integer
+    secret : integer
+    series_crossover : integer
+    *id_special_pokemon_type : integer <<FK>>
+    full_art : integer
+    gold_star : integer
+    regular_art : integer
+    *id_special_pokemon : integer <<FK>>
+}
+
+entity "trainer_card_type" as trainer_card_type {
+    *id_trainer_card_type : integer
+    --
+    name : text
+}
+
+entity "trainer_category" as trainer_category {
+    *id_trainer_category : integer
+    --
+    name : text
+}
+
+entity "weakness_lookup" as weakness_lookup {
+    *id_weakness_lookup : integer
+    --
+    id_type : integer <<FK>>
+    value : text
+}
+
+attack ||..|{ energy_basic
+
+action ||..|| action_type
+
+diamond_and_pearl_pokedex ||..|{ pokedex_type
+
+pokedex ||..|{ pokedex_type
+pokedex ||..|| pokemon_region
+pokedex ||..|| generation
+
+resistence_lookup ||..|| energy_basic
+
+set ||..|| geographic_region
+set ||..|| series
+
+weakness_lookup ||..|| energy_basic
+
+@enduml
