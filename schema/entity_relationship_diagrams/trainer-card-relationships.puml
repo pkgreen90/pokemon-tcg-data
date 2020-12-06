@@ -1,0 +1,24 @@
+@startuml trainer-card-relationships
+
+entity "action" as action {}
+entity "artist" as artist {}
+entity "attack" as attack {}
+entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
+entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {}
+entity "rarity" as rarity {}
+entity "set" as set {}
+entity "trainer_card" as trainer_card {}
+entity "trainer_card_type" as trainer_card_type {}
+entity "trainer_category" as trainer_category {}
+
+trainer_card ||..up|| action
+trainer_card ||..up|| artist
+trainer_card ||..up|| attack 
+trainer_card ||..left|| extended_attributes_special_pokemon
+trainer_card ||..right|| extended_attributes_special_pokemon_type
+trainer_card ||..|| rarity
+trainer_card ||..up|| set
+trainer_card ||..|| trainer_card_type
+trainer_card ||..|| trainer_category
+
+@enduml
