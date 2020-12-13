@@ -16,6 +16,8 @@ The purpose of this data is to make freely available any information that would 
   - [Schema](#schema)
     - [entity_relationship_digrams](#entity_relationship_digrams)
     - [exported_images](#exported_images)
+    - [Schemas](#schemas)
+      - [ERD](#erd)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -33,7 +35,7 @@ The table below describes the structure of this repository.
 The schema directory makes use of a program called [Plantuml](https://plantuml.com/). This has a dependency upon [Graphviz](https://www.graphviz.org/download/).
 The schema directory contains two sub-directories:
 
-- entity_relationship_digrams
+- entity_relationship_diagrams
 - exported_images
 
 ### entity_relationship_digrams
@@ -43,6 +45,14 @@ This is the raw plantuml code files that are used to produce the exported images
 ### exported_images
 
 This directory contains the exported files that are used to display within other files.
+
+### Schemas
+
+The files provided as part of this repository are able to be directly imported into a database.
+
+#### ERD
+
+[Main Database Schema](schema/exported_images/database-schema.svg)
 
 ## Contributing
 
