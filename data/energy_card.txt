@@ -1,0 +1,294 @@
+id_energy_card	card_number	card_number_special	id_rarity	id_energy	id_energy_special	id_set	id_extended_attributes_lookup	artist	text	additionalRule1	Holofoil	Promo	Fixed	Shining	Secret Count	Series Crossover	special_pokemon_types	Full Art	Gold Star	Regular Art	special_pokemon	Prism
+1	96		2	10	1	1		3	Provides energy. Doesn't count as a basic energy card.													
+2	97		1	1		1		3														
+3	98		1	2		1		3														
+4	99		1	3		1		3														
+5	100		1	4		1		3														
+6	101		1	5		1		3														
+7	102		1	6		1		3														
+8	124		2	10	1	4		3	Provides energy. Doesn't count as a basic energy card.													
+9	125		1	1		4		3														
+10	126		1	2		4		3														
+11	127		1	3		4		3														
+12	128		1	4		4		3														
+13	129		1	5		4		3														
+14	130		1	6		4		3														
+15	81		2	12	2	5		3	If you play this card from your hand, the Pokémon you attach it to is no longer Asleep, Confused, Paralyzed, or Poisoned. Full Heal Energy Provides energy. (Doesn't count as a basic Energy card.)													
+16	82		2	12	3	5		3	If you play this card from your hand, remove 1 damage counter from the Pokémon you attach it to, if it has any. Potion Energy provides energy. (Doesn't count as a basic Energy card.)													
+17	17		3	12	1	5	1	7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy counts as every type of basic Energy but only provides 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) When you attach this card from your hand to 1 of your Pokémon, it does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.) (Major text change in Ruby/Sapphire. Requires reference.)		1											
+18	80		3	12	4	5		7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy counts as every type of basic Energy but only provides 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) When you attach this card from your hand to 1 of your Pokémon, it does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.) (Major text change in Ruby/Sapphire. Requires reference.)													
+19	127		1	1		6		3														
+20	128		1	2		6		3														
+21	129		1	3		6		3														
+22	130		1	4		6		3														
+23	131		1	5		6		3														
+24	132		1	6		6		3														
+25	127		1	1		7		3														
+26	128		1	2		7		3														
+27	129		1	3		7		3														
+28	130		1	4		7		3														
+29	131		1	5		7		3														
+30	132		1	6		7		3														
+31	106		1	1		8		3														
+32	107		1	2		8		3														
+33	108		1	3		8		3														
+34	109		1	4		8		3														
+35	110		1	5		8		3														
+36	111		1	6		8		3														
+37	19		3	12	6	8	1	27	Damage done to Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't , whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Energy. (Doesn't count as a basic Energy card.)		1											
+38	104		3	12	5	8		27	If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's or has Dark in its name. Darkness Energy provides Energy. (Doesn't count as a basic Energy card.)													
+39	105		3	12	7	8		28	Recycle Energy provides 1 Energy. (Doesn't count as a basic Energy card.) If this card is put into your discard pile from play, return it to your hand.													
+40	16		3	12	8	11	1	27	You can't have more than 1 Miracle Energy card in your deck. Attach Miracle Energy to one of your Shining or Light Pokémon. At the end of your turn, discard Miracle Energy. While in play, Miracle Energy counts as every type of Energy but provides only 2 Energy at a time.		1											
+41	100		2	12	2	12		3	If you play this card from your hand, the Pokémon you attach it to is no longer Asleep, Confused, Paralyzed, or Poisoned. Full Heal Energy Provides energy. (Doesn't count as a basic Energy card.)													
+42	101		2	12	3	12		3	If you play this card from your hand, remove 1 damage counter from the Pokémon you attach it to, if it has any. Potion Energy provides energy. (Doesn't count as a basic Energy card.)													
+43	160		1	1		14		3														
+44	161		1	2		14		3														
+45	162		1	3		14		3														
+46	163		1	4		14		3														
+47	164		1	5		14		3														
+48	165		1	6		14		3														
+49	158		3	12	5	14		27	If the Pokémon Darkness Energy is attached to does damage with an attack (after applying Weakness and Resistance), the attack does 10 more damage. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's D or has Dark in its name. Darkness Energy provides D Energy. (Doesn't count as a basic Energy card.)													
+50	159		3	12	6	14		27	Damage done by attacks to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't M, whenever it damages a Pokémon by an attack, reduce that damage by 10 (after applying Weakness and Resistance). Metal Energy provides M Energy. (Doesn't count as a basic Energy card.)													
+51	147		2	12	11	16		3	Warp Energy provides 1 Energy. When you attach Warp Energy from your hand to your Active Pokémon, switch your Active Pokémon with 1 of your Benched Pokémon.													
+52	144		3	12	4	16		7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+53	142		3	12	5	16		27	If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's or has Dark in its name. Darkness Energy provides Energy. (Doesn't count as a basic Energy card.)													
+54	143		3	12	6	16		27	Damage done to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't , whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Energy. (Doesn't count as a basic Energy card.)													
+55	145		2	12	9	16		52	Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy.													
+56	146		2	12	10	16		52	Crystal Energy provides 1 Energy of all types (colors) of all basic Energy cards attached to the Pokémon Crystal Energy is attached to. If there are no basic Energy cards attached to the Pokémon Crystal Energy is attached to, Crystal Energy provides Energy.													
+57	142		2	12	12	18		52	This card provides Energy. You can attach this card to your Pokémon that has basic Energy cards attached to it. When you play this card from your hand and attach it to 1 of your Pokémon, return a basic Energy card attached to that Pokémon to your hand.													
+58	143		2	12	13	18		52	This card provides Energy. When you play this card from your hand and attach it to your Active Pokémon, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.													
+59	144		2	12	14	18		52	This card provides Energy. When you play this card from your hand and attach it to 1 of your Evolved Pokémon, you may remove up to 2 damage counters from that Pokémon and discard the top card from it. (This counts as devolving it.)													
+60	95		3	12	4	22		7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+61	93		3	12	5	22		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"													
+62	94		3	12	6	22		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal. (Doesn't count as a basic Energy card)"													
+63	104		1	3		22		63														
+64	105		1	1		22		63														
+65	106		1	6		22		63														
+66	107		1	5		22		63														
+67	108		1	2		22		63														
+68	109		1	4		22		63														
+69	93		3	12	15	23		64	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it."													
+70	86		2	12	17	25		7	Aqua Energy can be attached only to a Pokémon with Team Aqua in its name. Aqua Energy provides Water and Darkness Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.) At the end of your turn, discard Aqua Energy."													
+71	87		2	12	18	25		7	Magma Energy can be attached only to a Pokémon with Team Magma in its name. Magma Energy provides Fighting and /or Darkness Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.) At the end of your turn, discard Magma Energy."													
+72	88		3	12	16	25		7	Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy when not in play and has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (after applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.													
+73	103		3	12	15	27		73	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it."													
+74	94		2	12	19	28		7	Attach Dark Metal Energy to 1 of your Pokémon. While in play, Dark Metal Energy provides Darkness Energy and Metal Energy, but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.)"													
+75	95		2	12	20	28		7	Attach R Energy to a Pokémon that has Dark or Rocket's in its name. While in play, R Energy provides 2 Darkness Energy. (Doesn't count as a basic Energy card.) If the Pokémon R Energy is attached to attacks the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). When your turn ends discard R Energy."													
+76	94		2	12	21	29		7	Heal Energy provides 1 colorless energy. When you attach this card from your hand to 1 of your Pokémon, remove 1 damage counter and all Special Conditions from that Pokémon. If heal Energy is attached to Pokémon-ex, Heal Energy has no effect other than providing Energy.													
+77	95		2	12	22	29		7	Scramble Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). Scramble Energy provides Colorless Energy. While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time. If the Pokémon Scramble Energy is attached to isn't an Evolved Pokémon (or evolves into Pokémon-ex), discard Scramble Energy.													
+78	93		2	12	9	29		52	Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides ColorlessColorlessColorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy.													
+79	87		3	12	16	30		7	Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (before applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.													
+80	89		3	12	15	30		7	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it.													
+81	86		3	12	5	30		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+82	88		3	12	6	30		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+83	101		3	3		30		63			1											
+84	102		3	2		30		63			1											
+85	103		3	6		30		63			1											
+86	104		3	4		30		63			1											
+87	105		3	5		30		63			1											
+88	106		3	1		30		63			1											
+89	96		3	12	5	31		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+90	97		3	12	6	31		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+91	98		2	12	9	31		52	Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Colorless Colorless Colorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy.													
+92	99		2	12	13	31		52	Cyclone Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. Your opponent chooses the Benched Pokémon to switch.													
+93	100		2	12	11	31		52	Warp Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.													
+94	104		3	12	24	33		7	Holon Energy FF provides Colorless Energy. If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémon's attack isn't affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.													
+95	105		3	12	23	33		7	Holon Energy GL provides Colorless Energy. If the Pokémon that Holon Energy GL is attached to also has a basic Grass Energy card attached to it, that Pokémon can't be affected by any Special Conditions. If the Pokémon that Holon Energy GL is attached to also has a basic Lightning Energy card attached to it, damage done by your opponent's Pokémon-ex is reduced by 10. Ignore these effects if Holon Energy GL is attached to Pokémon-ex.													
+96	106		3	12	25	33		7	Holon Energy WP provides Colorless Energy. If the Pokémon that Holon Energy WP is attached to also has a basic Water Energy card attached to it, prevent all effects, excluding damage, done to that Pokémon by your opponent's Pokémon. If the Pokémon that Holon Energy WP is attached to also has a basic Psychic Energy card attached to it, that Pokémon's Retreat Cost is 0. Ignore these effects if Holon Energy WP is attached to Pokémon-ex.													
+97	103		3	12	5	33		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+98	107		3	12	6	33		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+99	81		3	12	4	34		7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+100	82		2	12	26	34		7	React Energy provides Colorless Energy.													
+101	96		3	12	15	35		7	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it.													
+102	97		2	12	19	35		7	Attach Dark Metal Energy to 1 of your Pokémon. While in play, Dark Metal Energy provides Darkness and Metal Energy, but provides only 1 Energy at a time. (Doesn't count as a basic energy card when not in play and has no effect other than providing Energy.)													
+103	98		2	12	27	35		7	δ Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has δ on its card, δ Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)													
+104	94		3	12	5	35		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+105	95		3	12	6	35		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+106	105		3	3		35		63			1											
+107	106		3	2		35		63			1											
+108	107		3	6		35		63			1											
+109	108		3	4		35		63			1											
+110	109		3	5		35		63			1											
+111	110		3	1		35		63			1											
+112	88		3	12	16	36		7	Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (before applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.													
+113	84		3	12	24	37		7	Holon Energy FF provides Colorless Energy. If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémon's attack isn't affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.													
+114	85		3	12	23	37		7	Holon Energy GL provides Colorless Energy. If the Pokémon that Holon Energy GL is attached to also has a basic Grass Energy card attached to it, that Pokémon can't be affected by any Special Conditions. If the Pokémon that Holon Energy GL is attached to also has a basic Lightning Energy card attached to it, damage done by your opponent's Pokémon-ex is reduced by 10. Ignore these effects if Holon Energy GL is attached to Pokémon-ex.													
+115	86		3	12	25	37		7	Holon Energy WP provides Colorless Energy. If the Pokémon that Holon Energy WP is attached to also has a basic Water Energy card attached to it, prevent all effects of attacks, excluding damage, done to that Pokémon by your opponent's Pokémon. If the Pokémon that Holon Energy WP is attached to also has a basic Psychic Energy card attached to it, that Pokémon's Retreat Cost is 0. Ignore these effects if Holon Energy WP is attached to Pokémon-ex.													
+116	88		2	12	27	37		7	δ Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has δ on its card, δ Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)													
+117	89		2	12	22	37		7	Scramble Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). Scramble Energy provides Colorless Energy. While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time. If the Pokémon Scramble Energy is attached to isn't an Evolved Pokémon (or evolves into Pokémon-ex), discard Scramble Energy.													
+118	87		2	12	9	37		52	Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides Colorless Colorless Colorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy.													
+119	89		3	12	15	38		7	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it.													
+120	87		3	12	5	38		27	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+121	88		3	12	6	38		27	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+122	90		2	12	13	38		52	Cyclone Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. Your opponent chooses the Benched Pokémon to switch.													
+123	91		2	12	11	38		52	Warp Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.													
+124	103		3	3		38		63			1											
+125	104		3	2		38		63			1											
+126	105		3	6		38		63			1											
+127	106		3	4		38		63			1											
+128	107		3	5		38		63			1											
+129	108		3	1		38		63			1											
+130	123		1	3		39		63														
+131	124		1	2		39		63														
+132	125		1	6		39		63														
+133	126		1	4		39		63														
+134	127		1	5		39		63														
+135	128		1	1		39		63														
+136	129		1	7		39		63														
+137	130		1	8		39		63														
+138	118		3	12	15	40		7	Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it.													
+139	119		2	12	5	40		7	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+140	120		2	12	6	40		7	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+141	129		2	12	5	41		7	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+142	130		2	12	6	41		7	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+143	92		2	12	28	43		7	Call Energy provides Colorless Energy. Once during your turn, if the Pokémon Call Energy is attached to is your Active Pokémon, you may search your deck for up to 2 Basic Pokémon and put them onto your Bench. If you do, shuffle your deck and your turn ends.													
+144	93		2	12	5	43		7	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+145	94		2	12	29	43		7	Health Energy provides Colorless Energy. When you attach this card from your hand to 1 of your Pokémon, remove 1 damage counter from that Pokémon.													
+146	95		2	12	6	43		7	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+147	96		2	12	30	43		7	Recover Energy provides Colorless Energy. When you attach this card from your hand to 1 of your Pokémon, remove all Special Conditions from that Pokémon.													
+148	94		2	12	13	46		7	Cyclone Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. Your opponent chooses the Benched Pokémon to switch.													
+149	95		2	12	11	46		7	Warp Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.													
+150	121		2	12	4	47		7	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+151	99		2	12	5	49		7	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+152	100		2	12	6	49		7	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+153	102		2	12	32	49		64	Upper Energy provides Colorless Energy. If you have more Prize cards left than your opponent and this card is attached to a Pokémon (excluding Pokémon LV.X), Upper Energy provides Colorless Colorless Energy.													
+154	101		2	12	31	49		97	SP Energy provides Colorless Energy. If the Pokémon SP Energy is attached to is a Pokémon SP, SP Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card.)													
+155	115		1	3		56		63														
+156	116		1	2		56		63														
+157	117		1	6		56		63														
+158	118		1	4		56		63														
+159	119		1	5		56		63														
+160	120		1	1		56		63														
+161	121		1	7		56		63														
+162	122		1	8		56		63														
+163	103		2	12	1	56		97	Double Colorless Energy provides 2 Colorless Energy.													
+164	104		2	12	4	56		97	Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon. (While not in play, Rainbow Energy counts as Colorless Energy.)													
+165	79		2	12	5	58		97	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+166	80		2	12	6	58		97	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+167	90		2	12	33	59		97	Rescue Energy provides Colorless Energy. If the Pokémon this card is attached to is Knocked Out by damage from an attack, put that Pokémon back into your hand. (Discard all cards attached to that Pokémon.)													
+168	88		1	3		60		63														
+169	89		1	2		60		63														
+170	90		1	6		60		63														
+171	91		1	4		60		63														
+172	92		1	5		60		63														
+173	93		1	1		60		63														
+174	94		1	7		60		63														
+175	95		1	8		60		63														
+176	86		2	12	5	60		97	If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)													
+177	87		2	12	6	60		97	Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)													
+178	105		1	3		62		63														
+179	106		1	2		62		63														
+180	107		1	6		62		63														
+181	108		1	4		62		63														
+182	109		1	5		62		63														
+183	110		1	1		62		63														
+184	111		1	7		62		63														
+185	112		1	8		62		63														
+186	92		2	12	1	65		129	Double Colorless Energy provides ColorlessColorless Energy.													
+187	93		2	12	34	65		129	This card provides Colorless Energy. If the Pokémon this card is attached to is a Basic Pokémon, this card provides every type of Energy but provides only 1 Energy at a time.													
+188	117		2	12	35	67		129	This card provides Colorless Energy. When this card is attached to a Pokémon, this card provides Grass, Fire, Psychic, or Darkness Energy but provides only 1 Energy at a time.													
+189	118		2	12	36	67		129	This card provides Colorless Energy. When this card is attached to a Pokémon, this card provides Water, Lightning, Fighting, or Metal Energy but provides only 1 Energy at a time.													
+190	127		2	12	37	70		129	This card provides Colorless Energy.													
+191	106		2	12	37	71		129	This card provides Colorless Energy.													
+192	91		2	12	37	72		129	This card provides Colorless Energy.													
+193	113		2	12	1	73		129	Double Colorless Energy provides ColorlessColorless Energy.													
+194	132		1	3		75		63														
+195	133		1	2		75		63														
+196	134		1	6		75		63														
+197	135		1	4		75		63														
+198	136		1	5		75		63														
+199	137		1	1		75		63														
+200	138		1	7		75		63														
+201	139		1	8		75		63														
+202	140		1	9		75		63														
+203	130		2	12	1	75		129	Double Colorless Energy provides ColorlessColorless Energy.													
+204	131		2	12	4	75		129	This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+205	103		2	12	38	77		129	This card can only be attached to Grass Pokémon. This card provides Grass Energy only while this card is attached to a Grass Pokémon. When you attach this card from your hand to 1 of your Grass Pokémon, heal 30 damage from that Pokémon. (If this card is attached to anything other than a Grass Pokémon, discard this card.)													
+206	104		2	12	39	77		129	This card can only be attached to Fighting Pokémon. This card provides Fighting Energy only while this card is attached to a Fighting Pokémon. The attacks of the Fighting Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). (If this card is attached to anything other than a Fighting Pokémon, discard this card.)													
+207	111		2	12	1	78		129	Double Colorless Energy provides ColorlessColorless Energy.													
+208	112		2	12	40	78		129	This card can only be attached to Psychic Pokémon. This card provides Psychic Energy, but only while this card is attached to a Psychic Pokémon. The Retreat Cost of the Pokémon this card is attached to is ColorlessColorless less. (If this card is attached to anything other than a Psychic Pokémon, discard this card.)													
+209	143		2	12	41	79		129	This card can only be attached to Metal Pokémon. This card provides Metal Energy only while this card is attached to a Metal Pokémon. The attacks of your opponent's Pokémon do 10 less damage to the Metal Pokémon this card is attached to (before applying Weakness and Resistance). (If this card is attached to anything other than a Metal Pokémon, discard this card.)													
+210	144		2	12	42	79		129	This card can only be attached to Fairy Pokémon. This card provides Fairy Energy only while this card is attached to a Fairy Pokémon. Prevent all effects of your opponent's attacks, except damage, done to the Fairy Pokémon this card is attached to. (Existing effects are not removed.) (If this card is attached to anything other than a Fairy Pokémon, discard this card.)													
+211	33		2	12	43	80		129	This card can only be attached to Team Aqua Pokémon. Discard this card at the end of the turn you attached it. This card provides WaterWater Energy only while it is attached to a Team Aqua Pokémon. (If this card is attached to anything other than a Team Aqua Pokémon, discard this card.)													
+212	34		2	12	44	80		129	This card can only be attached to Team Magma Pokémon. Discard this card at the end of the turn you attached it. This card provides FightingFighting Energy only while it is attached to a Team Magma Pokémon. (If this card is attached to anything other than a Team Magma Pokémon, discard this card.)													
+213	97		2	12	45	81		129	This card can only be attached to Dragon Pokémon. This card provides every type of Energy, but provides only 2 Energy at a time, only while this card is attached to a Dragon Pokémon. (If this card is attached to anything other than a Dragon Pokémon, discard this card.)													
+214	82		2	12	47	82		129	This card can only be attached to Darkness Pokémon. This card provides Darkness Energy only while this card is attached to a Darkness Pokémon. Whenever the Darkness Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-EX (even if that Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon-EX. (If this card is attached to anything other than a Darkness Pokémon, discard this card.)													
+215	83		2	12	46	82		129	This card can only be attached to Lightning Pokémon. This card provides Lightning Energy only while this card is attached to a Lightning Pokémon. The Lightning Pokémon this card is attached to has no Weakness. (If this card is attached to anything other than a Lightning Pokémon, discard this card.)													
+216	151		2	12	48	83		129	This card can only be attached to Fire Pokémon. This card provides Fire Energy only while this card is attached to a Fire Pokémon. If this card is discarded by an attack of the Fire Pokémon this card is attached to, attach this card from your discard pile to that Pokémon after attacking. (If this card is attached to anything other than a Fire Pokémon, discard this card.)													
+217	152		2	12	4	83		129	This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+218	113		2	12	49	84		129	This card can only be attached to Water Pokémon. This card provides Water Energy only while this card is attached to a Water Pokémon. If the Water Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put that Pokémon into your hand. (Discard all cards attached to it.) (If this card is attached to anything other than a Water Pokémon, discard this card.)													
+219	74		2	12	1	85		129	Double Colorless Energy provides ColorlessColorless Energy.													
+220	75		1	3		85		63														
+221	76		1	2		85		63														
+222	77		1	6		85		63														
+223	78		1	4		85		63														
+224	79		1	5		85		63														
+225	80		1	1		85		63														
+226	81		1	7		85		63														
+227	82		1	8		85		63														
+228	83		1	9		85		63														
+229	114		2	12	1	87		129	Double Colorless Energy provides ColorlessColorless Energy.													
+230	115		2	12	39	87		129	This card can only be attached to Fighting Pokémon. This card provides Fighting Energy only while this card is attached to a Fighting Pokémon. The attacks of the Fighting Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). (If this card is attached to anything other than a Fighting Pokémon, discard this card.)													
+231	90		2	12	1	89		3	Double Colorless Energy provides ColorlessColorless Energy.													
+232	91		1	3		89		63														
+233	92		1	2		89		63														
+234	93		1	6		89		63														
+235	94		1	4		89		63														
+236	95		1	5		89		63														
+237	96		1	1		89		63														
+238	97		1	7		89		63														
+239	98		1	8		89		63														
+240	99		1	9		89		63														
+241	136		2	12	1	90		129	Double Colorless Energy provides ColorlessColorless Energy.													
+242	137		2	12	4	90		129	This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+243	162		3	5		90		63							1							
+244	163		3	8		90		63							1							
+245	164		1	3		90		63														
+246	165		1	2		90		63														
+247	166		1	6		90		63														
+248	167		1	4		90		63														
+249	168		1	5		90		63														
+250	169		1	1		90		63														
+251	170		1	7		90		63														
+252	171		1	8		90		63														
+253	172		1	9		90		63														
+254	166		3	12	1	91		129	Double Colorless Energy provides ColorlessColorless Energy.						1							
+255	167		3	3		91		63							1							
+256	168		3	4		91		63							1							
+257	169		3	1		91		63							1							
+258	167		3	2		92		63							1							
+259	168		3	7		92		63							1							
+260	169		3	9		92		63							1							
+261	69		2	12	1	93		63	Double Colorless Energy provides ColorlessColorless Energy.													
+262	70		2	12	11	93		63	This card provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.													
+263	100		2	12	50	94		63	This card provides Colorless Energy. If you have more Prize cards remaining than your opponent, and if this card is attached to a Pokémon that isn't a Pokémon-GX or Pokémon-EX, this card provides every type of Energy but provides only 2 Energy at a time.													
+264	122		3	12	50	94		63	This card provides Colorless Energy. If you have more Prize cards remaining than your opponent, and if this card is attached to a Pokémon that isn't a Pokémon-GX or Pokémon-EX, this card provides every type of Energy but provides only 2 Energy at a time.						1							
+265	123		3	12	11	94		63	This card provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon.						1							
+266	124		3	12	6	94		63							1							
+267	136		3	12	51	95		63	This card provides Colorless Energy. While this card is attached to a Stage 2 Pokémon, it provides every type of Energy but provides only 1 Energy at a time. If you have 3 or more Stage 2 Pokémon in play, it provides every type of Energy but provides 4 Energy at a time.	You can't have more than 1 ◇ card with the same name in your deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead.	1						1					1
+268	137		2	12	52	95		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Grass, Fire, and Water Energy but provides only 1 Energy at a time.													
+269	138		2	12	53	95		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Lightning, Psychic, and Metal Energy but provides only 1 Energy at a time.													
+270	170		3	12	52	95		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Grass, Fire, and Water Energy but provides only 1 Energy at a time.						1							
+271	171		3	12	53	95		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Lightning, Psychic, and Metal Energy but provides only 1 Energy at a time.						1							
+272	117		3	12	55	96		63	This card provides Colorless Energy. While this card is attached to an Ultra Beast, it provides every type of Energy but provides only 1 Energy at a time. The attacks of the Ultra Beast this card is attached to do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).	You can't have more than 1 ◇ card with the same name in your deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead.	1						1					1
+273	118		2	12	54	96		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Fighting, Darkness, and Fairy Energy but provides only 1 Energy at a time.													
+274	146		3	12	54	96		63	This card provides Colorless Energy. While this card is attached to a Pokémon, it provides Fighting, Darkness, and Fairy Energy but provides only 1 Energy at a time.						1							
+275	151		2	12	4	97		63	This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.													
+276	183		3	12	4	97		63	This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.						1							
+277	194		2	12	56	99		63	This card provides Colorless Energy. The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)													
+278	190		2	12	59	101		129	This card can only be attached to Evolution Pokémon. If this card is attached to 1 of your Pokémon, discard it at the end of the turn. This card provides ColorlessColorlessColorless Energy only while it is attached to an Evolution Pokémon. If this card is attached to anything other than an Evolution Pokémon, discard this card.													
+279	234		3	12	59	101		129	This card can only be attached to Evolution Pokémon. If this card is attached to 1 of your Pokémon, discard it at the end of the turn. This card provides ColorlessColorlessColorless Energy only while it is attached to an Evolution Pokémon. If this card is attached to anything other than an Evolution Pokémon, discard this card.						1							
+280	257		3	12	7	102		63	This card provides Colorless Energy.\n\nIf this card is discarded from play, put it into your hand instead of the discard pile.						1							
+281	258		3	12	58	102		63	This card provides Colorless Energy.\n\nThe Pokémon this card is attached to has no Weakness.						1							
+282	212		2	12	7	102		129	This card provides Colorless Energy. If this card is discarded from play, put it into your hand instead of the discard pile.													
+283	213		2	12	58	102		129	This card provides Colorless Energy. The Pokémon this card is attached to has no Weakness.													
+284	209		2	12	60	105		63	This card provides Colorless Energy. When you attach this card from your hand to a Pokémon, draw a card.													
+285	271		3	12	60	105		63	This card provides Colorless Energy. When you attach this card from your hand to a Pokémon, draw a card.						1							
+286	186		2	12	61	106		63	You can attach this card to 1 of your Pokémon only if you discard another card from your hand. As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.													
+287	171		2	12	62	107		63	As long as this card is attached to a Pokémon, it provides Colorless Energy. When you attach this card from your hand to a Pokémon, search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.													
+288	172		2	12	63	107		63	As long as this card is attached to a Pokémon, it provides Psychic Energy. If the Psychic Pokémon this card is attached to is in the Active Spot and is damaged by an opponent's attack (even if it is Knocked Out), put 2 damage counters on the Attacking Pokémon.													
+289	173		2	12	64	107		63	As long as this card is attached to a Pokémon, it provides Lightning Energy. When you attach this card from your hand to a Lightning Pokémon, draw 2 cards.													
+290	174		2	12	65	107		63	As long as this card is attached to a Pokémon that isn't a Pokémon V or a Pokémon-GX, it provides ColorlessColorless Energy. If this card is attached to a Pokémon V or a Pokémon-GX, it provides Colorless Energy instead.													
+291	174		2	12	66	108		63	As long as this card is attached to a Pokémon, it provides Fire Energy. The Fire Pokémon this card is attached to gets +20 HP.													
+292	175		2	12	67	108		63	As long as this card is attached to a Pokémon, it provides Darkness Energy. The Darkness Pokémon this card is attached to has no Retreat Cost.													
+293	176		2	12	68	108		63	As long as this card is attached to a Pokémon, it provides Colorless Energy. The attacks of the Colorless Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).													
