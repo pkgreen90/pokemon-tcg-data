@@ -3,6 +3,7 @@
 entity "action" as action {}
 entity "artist" as artist {}
 entity "attack" as attack {}
+entity "card_rule" as card_rule {}
 entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
 entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {}
 entity "rarity" as rarity {}
@@ -20,5 +21,6 @@ trainer_card ||..|| rarity
 trainer_card ||..up|| set
 trainer_card ||..|| trainer_card_type
 trainer_card ||..|| trainer_category
+trainer_card ||..|| card_rule
 
 @enduml

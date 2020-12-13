@@ -42,6 +42,12 @@ entity "attack" as attack {
     text : text
 }
 
+entity "card_rule" as card_rule {
+    *id_card_rule : integer
+    --
+    text : text
+}
+
 entity "diamond_and_pearl_pokedex" as diamond_and_pearl_pokedex {
     *id_diamond_and_pearl_pokedex : integer
     --
@@ -284,7 +290,8 @@ entity "weakness_lookup" as weakness_lookup {
     *id_weakness_lookup : integer
     --
     id_type : integer <<FK>>
-    value : text
+    value : integer
+    multiplier : integer
 }
 
 attack ||..|{ energy_basic
