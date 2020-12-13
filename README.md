@@ -17,7 +17,6 @@ The purpose of this data is to make freely available any information that would 
     - [entity_relationship_digrams](#entity_relationship_digrams)
     - [exported_images](#exported_images)
     - [Schemas](#schemas)
-      - [ERD](#erd)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -50,9 +49,19 @@ This directory contains the exported files that are used to display within other
 
 The files provided as part of this repository are able to be directly imported into a database.
 
-#### ERD
+This is the main relationship between each of the files (tables) and the data schemas for each table.
+![Main Database Schema](schema/exported_images/database-schema.svg)
 
-[Main Database Schema](schema/exported_images/database-schema.svg)
+This is the relationship between the energy cards and other tables
+![Energy Card Relationships](schema/exported_images/energy-card-relationships.svg)
+
+This is the relationship between the pokemon cards and other tables
+![Energy Card Relationships](schema/exported_images/
+![Pokemon Card Relationships](schema/exported_images/pokemon-card-relationships.svg)
+
+This is the relationship between the trainers cards and other tables
+![Energy Card Relationships](schema/exported_images/
+![Trainer Card Relationships](schema/exported_images/trainer-card-relationships.svg)
 
 ## Contributing
 
