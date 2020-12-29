@@ -75,11 +75,10 @@ entity "energy_card" as energy_card {
     shining : integer
     secret : integer
     series_crossover : integer
-    *id_special_pokemon_type : integer <<FK>>
     full_art : integer
     gold_star : integer
     regular_art : integer
-    *id_special_pokemon : integer <<FK>>
+    *id_extended_attributes_special_pokemon_type_lookup : integer <<FK>>
 }
 
 entity "energy_basic" as energy_basic {
@@ -120,6 +119,12 @@ entity "extended_attributes_special_pokemon_type" as extended_attributes_special
     --
     flag_label : text
     notes : text
+}
+
+entity "extended_attributes_special_pokemon_type_lookup" as extended_attributes_special_pokemon_type_lookup {
+    *id_extended_attributes_special_pokemon_type_lookup : integer
+    --
+    lookup_keys : text
 }
 
 entity "generation" as generation {
@@ -180,7 +185,7 @@ entity "pokemon_card" as pokemon_card {
     *id_action_1 : integer <<FK>>
     *id_action_2 : integer <<FK>>
     *id_ancient_trait : integer <<FK>>
-    id_artist : integer <<FK>>
+    *id_artist : integer <<FK>>
     additional_note_1 : text
     additional_note_2 : text
     holofoil : integer
@@ -193,7 +198,7 @@ entity "pokemon_card" as pokemon_card {
     full_art : integer
     gold_star : integer
     regular_art : integer
-    special_pokemon : integer <<FK>>
+    *id_extended_attributes_special_pokemon_type_lookup : integer <<FK>>
 }
 
 entity "pokemon_region" as pokemon_region {
@@ -271,7 +276,7 @@ entity "trainer_card" as trainer_card {
     full_art : integer
     gold_star : integer
     regular_art : integer
-    *id_special_pokemon : integer <<FK>>
+    *id_extended_attributes_special_pokemon_type_lookup : integer <<FK>>
 }
 
 entity "trainer_card_type" as trainer_card_type {
@@ -299,6 +304,8 @@ attack ||..|{ energy_basic
 action ||..|| action_type
 
 diamond_and_pearl_pokedex ||..|{ pokedex_type
+
+extended_attributes_special_pokemon_type_lookup ||..|{ extended_attributes_special_pokemon_type
 
 pokedex ||..|{ pokedex_type
 pokedex ||..|| pokemon_region

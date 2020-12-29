@@ -4,8 +4,7 @@ entity "action" as action {}
 entity "artist" as artist {}
 entity "attack" as attack {}
 entity "card_rule" as card_rule {}
-entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
-entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {}
+entity "extended_attributes_special_pokemon_type_lookup" as extended_attributes_special_pokemon_type_lookup {}
 entity "rarity" as rarity {}
 entity "set" as set {}
 entity "trainer_card" as trainer_card {}
@@ -15,8 +14,7 @@ entity "trainer_category" as trainer_category {}
 trainer_card ||..up|| action
 trainer_card ||..up|| artist
 trainer_card ||..up|| attack 
-trainer_card ||..left|| extended_attributes_special_pokemon
-trainer_card ||..right|| extended_attributes_special_pokemon_type
+trainer_card ||..right|| extended_attributes_special_pokemon_type_lookup
 trainer_card ||..|| rarity
 trainer_card ||..up|| set
 trainer_card ||..|| trainer_card_type
