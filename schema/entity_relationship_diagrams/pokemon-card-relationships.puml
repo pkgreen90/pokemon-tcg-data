@@ -4,6 +4,7 @@ entity "action" as action {}
 entity "ancient_trait" as ancient_trait {}
 entity "artist" as artist {}
 entity "attack" as attack {}
+entity "extended_attributes_core" as extended_attributes_core {}
 entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
 entity "extended_attributes_special_pokemon_type_lookup" as extended_attributes_special_pokemon_type_lookup {}
 entity "pokedex" as pokedex {}
@@ -19,6 +20,7 @@ pokemon_card ||..right|{ action
 pokemon_card ||..left|| ancient_trait
 pokemon_card ||..up|| artist
 pokemon_card ||..up|{ attack
+pokemon_card ||..|{ extended_attributes_core
 pokemon_card ||..|| extended_attributes_special_pokemon
 pokemon_card ||..up|| extended_attributes_special_pokemon_type_lookup
 pokemon_card ||..|{ pokedex

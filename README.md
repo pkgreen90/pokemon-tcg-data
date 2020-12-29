@@ -65,6 +65,9 @@ This is the relationship between the pokémon cards and other tables
 This is the relationship between the trainers cards and other tables
 ![Trainer Card Relationships](schema/exported_images/trainer-card-relationships.svg)
 
+This is the relationship between all tables for reference
+![All Relationships](schema/exported_images/database-full-relationships.svg)
+
 ## Contributing
 
 Feel free to make a branch and contribute to this repository where you see missing or incorrect data using the instructions below. I use a single master branch with feature brnaches from it (GitHub Flow).

@@ -3,6 +3,7 @@
 entity "artist" as artist {}
 entity "energy_basic" as energy_basic {}
 entity "energy_special" as energy_special {}
+entity "extended_attributes_core" as extended_attributes_core {}
 entity "extended_attributes_special_pokemon_type_lookup" as extended_attributes_special_pokemon_type_lookup {}
 entity "rarity" as rarity {}
 entity "set" as set {}
@@ -10,6 +11,7 @@ entity "set" as set {}
 energy_card ||..up|| artist
 energy_card ||..|| energy_basic
 energy_card ||..|| energy_special
+energy_card ||..|{ extended_attributes_core
 energy_card ||..right|| extended_attributes_special_pokemon_type_lookup
 energy_card ||..up|| rarity
 energy_card ||..up|| set

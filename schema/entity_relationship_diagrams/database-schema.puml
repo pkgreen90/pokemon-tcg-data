@@ -194,10 +194,10 @@ entity "pokemon_card" as pokemon_card {
     shining : integer
     secret : integer
     series_crossover : integer
-    special_pokemon_type : integer <<FK>>
     full_art : integer
     gold_star : integer
     regular_art : integer
+    *id_special_pokemon : integer <<FK>>
     *id_extended_attributes_special_pokemon_type_lookup : integer <<FK>>
 }
 

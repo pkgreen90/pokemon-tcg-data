@@ -14,3 +14,7 @@ id_special_pokemon_type	lookup_keys
 13	15,16,19
 14	6
 15	9
+16	7
+17	8
+18	1
+19	10

@@ -1,0 +1,84 @@
+@startuml database-full-relationships
+
+entity "action" as action {}
+entity "ancient_trait" as ancient_trait {}
+entity "artist" as artist {}
+entity "attack" as attack {}
+entity "card_rule" as card_rule {}
+entity "diamond_and_pearl_pokedex" as diamond_and_pearl_pokedex {}
+entity "energy_basic" as energy_basic {}
+entity "energy_special" as energy_special {}
+entity "extended_attributes_core" as extended_attributes_core {}
+entity "extended_attributes_special_pokemon" as extended_attributes_special_pokemon {}
+entity "extended_attributes_special_pokemon_type" as extended_attributes_special_pokemon_type {}
+entity "extended_attributes_special_pokemon_type_lookup" as extended_attributes_special_pokemon_type_lookup {}
+entity "generation" as generation {}
+entity "geographic_region" as geographic_region {}
+entity "pokedex" as pokedex {}
+entity "pokedex_type" as pokedex_type {}
+entity "pokemon_region" as pokemon_region {}
+entity "pokemon_card" as pokemon_card {}
+entity "pokemon_category" as pokemon_category {}
+entity "rarity" as rarity {}
+entity "resistence_lookup" as resistence_lookup {}
+entity "set" as set {}
+entity "series" as series {}
+entity "trainer_card" as trainer_card {}
+entity "trainer_card_type" as trainer_card_type {}
+entity "trainer_category" as trainer_category {}
+entity "weakness_lookup" as weakness_lookup {}
+
+attack ||..|{ energy_basic
+
+action ||..|| action_type
+
+diamond_and_pearl_pokedex ||..|{ pokedex_type
+
+energy_card ||..up|| artist
+energy_card ||..|| energy_basic
+energy_card ||..|| energy_special
+energy_card ||..|{ extended_attributes_core
+energy_card ||..right|| extended_attributes_special_pokemon_type_lookup
+energy_card ||..up|| rarity
+energy_card ||..up|| set
+
+extended_attributes_special_pokemon_type_lookup ||..|{ extended_attributes_special_pokemon_type
+
+pokemon_card ||..right|{ action
+pokemon_card ||..left|| ancient_trait
+pokemon_card ||..up|| artist
+pokemon_card ||..up|{ attack
+pokemon_card ||..|{ extended_attributes_core
+pokemon_card ||..|| extended_attributes_special_pokemon
+pokemon_card ||..up|| extended_attributes_special_pokemon_type_lookup
+pokemon_card ||..|{ pokedex
+pokemon_card ||..down|{ pokedex_type
+pokemon_card ||..down|| pokemon_category
+pokemon_card ||..down|| rarity
+pokemon_card ||..left|{ resistence_lookup
+pokemon_card ||..right|| set
+pokemon_card ||..right|{ weakness_lookup
+
+pokedex ||..|{ pokedex_type
+pokedex ||..|| pokemon_region
+pokedex ||..|| generation
+
+resistence_lookup ||..|| energy_basic
+
+set ||..|| geographic_region
+set ||..|| series
+
+trainer_card ||..up|| action
+trainer_card ||..up|| artist
+trainer_card ||..up|| attack
+trainer_card ||..|{ extended_attributes_core
+trainer_card ||..right|| extended_attributes_special_pokemon_type_lookup
+trainer_card ||..|| rarity
+trainer_card ||..up|| set
+trainer_card ||..|| trainer_card_type
+trainer_card ||..|| trainer_category
+trainer_card ||..|| card_rule
+
+weakness_lookup ||..|| energy_basic
+
+@enduml
