@@ -67,7 +67,7 @@ This is the relationship between the trainers cards and other tables
 
 ## Contributing
 
-Feel free to make a branch and contribute to this repository where you see missing or incorrect data using the instructions below. I use a single master branch with feature braches from it (GitHub Flow).
+Feel free to make a branch and contribute to this repository where you see missing or incorrect data using the instructions below. I use a single master branch with feature brnaches from it (GitHub Flow).
 
 1. Clone the repository
 2. Create your feature branch (git checkout -b feature/my-new-feature)
