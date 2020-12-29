@@ -12,4 +12,10 @@ id_extended_attributes_special_pokemon_types	flag_label	notes
 10	TAG TEAM GX	Cards that have TAG TEAM under their name, typically two items or pokemon on a single card. These cards are typically a GX card but a subset.
 11	Ultra Beast	These are cards that typically have the word “Ultra Beast” within or near the picture element of the card
 12	Ultra Beast GX	These are an extension to the Ultra Beast cards but are classified as a subset of the GX pokemon.
-13	Primal Reversion	This is an extension to the EX and M-EX attributes of a pokemon card.
+13	Primal Reversion	This is an extension to the EX and M-EX attributes of a pokemon card. It has the text Primal Reversion under under the MEGA label.
+14	GX	These are a variation of pokemon in the game and are stylised by have a GX following the pokemon name.
+15	V	These are a variation of pokemon in the game and are stylised by have a V following the pokemon name.
+16	VMAX	These are an extension to the V type Pokemon and have the term "VMAX" after the name. They appear along with other *max type pokemon.
+17	Dynamax	This is a sub type of the VMAX type.
+18	Gigantamax	This is a sub type of the VMAX type.
+19	Eternamax	This is a sub type of the VMAX type.
