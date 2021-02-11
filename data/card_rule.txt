@@ -41,7 +41,7 @@ id_card_rule	text
 40	You may play only 1 Supporter card during your turn.
 41	You may use this card only if you have more Prize cards left than your opponent.
 42	Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.
-43	(Pokémon Tool Flare Rule) Attach this Pokémon Tool to 1 of your opponent's Pokémon-EX that doesn't already have a Pokémon Tool attached to it.
+43	Attach this Pokémon Tool to 1 of your opponent's Pokémon-EX that doesn't already have a Pokémon Tool attached to it.
 44	Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.
 45	You can’t have more than 1 ACE SPEC card in your deck.
 46	You can't have more than 1 ◇ card with the same name in your deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead.

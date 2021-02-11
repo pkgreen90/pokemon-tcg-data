@@ -1,4 +1,4 @@
-id_special_pokemon_type	lookup_keys
+id_extended_attributes_special_pokemon_type_lookup	lookup_keys
 1	2
 2	2,5
 3	2,5,13
