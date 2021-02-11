@@ -49,18 +49,12 @@ def parse_args() -> tuple:
 
     logger = get_logger('main')
 
-    # config_file = False
-
     parser = argparse.ArgumentParser(
         description='Connection to database manager'
     )
-    # parser.add_argument(
-    #     '-c', '--config', type=str, required=False, 
-    #     help='The path to a configuration file'
-    # )
     parser.add_argument(
         '-d', '--db-file', type=str, required=True,
-        help='A file path to the database file'
+        help='A file path to the database file including database'
     )
     parser.add_argument(
         '-l', '--log-level', type=str, required=False, 
@@ -81,22 +75,23 @@ def parse_args() -> tuple:
     logging.getLogger().setLevel(args.log_level)
     logger.debug(f'Set log level to {args.log_level}')
 
-    # config = configparser.ConfigParser()
-    # if args.config == None or args.config == '':
-    #     logger.warning("No configuration file path passed, assuming command line args in use")
-    # else:
-    #     logger.debug("Configuration file argument passed, command line args will override any used")
-    #     config_file = True
-    #     config.read(args.config)
+    args_valid = True
     
     if args.db_file == None or args.db_file == '':
-        logger.error(f'No DB File parameter found')
+        logger.error(f'No database File parameter found')
+        args_valid = False
 
     if args.file_path == None or args.file_path == '':
         logger.error(f'No file path found')
+        args_valid = False
 
     if args.table == None or args.table == '':
         logger.error(f'No table name provided')
+        args_valid = False
+
+    if not args_valid:
+        logger.warning('Command line args not valid')
+        quit()
     
     return (args.db_file, args.file_path, args.table)
 
@@ -192,7 +187,13 @@ def main() -> None:
     conn = create_connection(db_file)
     conn.execute("PRAGMA foreign_keys = 0")
 
-    # table_list = get_tables(conn)
+    table_list = get_tables(conn)
+
+    if table_name in table_list:
+        logger.debug(f'Table {table_name} found in tablle listing')
+    else:
+        logger.error(f'Table {table_name} not found, quiting...')
+        quit()
     load_table_data(
         file_path,
         table_name,
@@ -205,3 +206,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+    
