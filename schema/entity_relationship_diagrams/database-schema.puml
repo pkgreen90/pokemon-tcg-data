@@ -68,7 +68,7 @@ entity "energy_card" as energy_card {
     *id_set : integer <<FK>>
     *id_artist : integer <<FK>>
     card_text : text
-    additional_rule_1 : text
+    *id_card_rule : integer <<FK>>
     holofoil : integer
     promo : integer
     fixed : integer
@@ -172,7 +172,7 @@ entity "pokemon_card" as pokemon_card {
     id_set : integer <<FK>>
     level : text
     retreat_cost : text
-    hp : text
+    hp : integer
     *id_evolves_from : integer <<FK>>
     *id_weakness_1 : integer <<FK>>
     *id_weakness_2 : integer <<FK>>
@@ -261,18 +261,17 @@ entity "trainer_card" as trainer_card {
     *id_artist : integer <<FK>>
     *id_attack : integer <<FK>>
     *id_action : integer <<FK>>
-    hp : text
-    card_rule_1 : text
-    ace_spec_rule_1 : text
-    tool_rule_1 : text
-    prism_rule_1 : text
+    hp : integer
+    card_rule_1 : integer <<FK>>
+    ace_spec_rule_1 : integer <<FK>>
+    tool_rule_1 : integer <<FK>>
+    prism_rule_1 : integer <<FK>>
     holofoil : integer
     promo : integer
     fixed : integer
     shining : integer
     secret : integer
     series_crossover : integer
-    *id_special_pokemon_type : integer <<FK>>
     full_art : integer
     gold_star : integer
     regular_art : integer

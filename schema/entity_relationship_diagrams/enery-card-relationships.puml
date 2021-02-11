@@ -1,6 +1,7 @@
 @startuml energy-card-relationships
 
 entity "artist" as artist {}
+entity "card_rule" as card_rule {}
 entity "energy_basic" as energy_basic {}
 entity "energy_special" as energy_special {}
 entity "extended_attributes_core" as extended_attributes_core {}
@@ -9,6 +10,7 @@ entity "rarity" as rarity {}
 entity "set" as set {}
 
 energy_card ||..up|| artist
+energy_card ||..|| card_rule
 energy_card ||..|| energy_basic
 energy_card ||..|| energy_special
 energy_card ||..|{ extended_attributes_core

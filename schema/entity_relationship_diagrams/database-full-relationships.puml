@@ -35,6 +35,7 @@ action ||..|| action_type
 diamond_and_pearl_pokedex ||..|{ pokedex_type
 
 energy_card ||..up|| artist
+energy_card ||..|| card_rule
 energy_card ||..|| energy_basic
 energy_card ||..|| energy_special
 energy_card ||..|{ extended_attributes_core
@@ -48,6 +49,7 @@ pokemon_card ||..right|{ action
 pokemon_card ||..left|| ancient_trait
 pokemon_card ||..up|| artist
 pokemon_card ||..up|{ attack
+pokemon_card ||..|| card_rule
 pokemon_card ||..|{ extended_attributes_core
 pokemon_card ||..|| extended_attributes_special_pokemon
 pokemon_card ||..up|| extended_attributes_special_pokemon_type_lookup
