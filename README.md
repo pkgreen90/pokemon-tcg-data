@@ -100,6 +100,7 @@ This section will describe each of the text files found within the data director
 | energy_special.txt | This is a list of of all the extended types found under the umbrella of "Special" |
 | extended_attributes_collection_specific.txt | This is a collection of attributes used to define extra details about a specific card in your collection |
 | extended_attributes_core.txt | Several cards have core attributes which are detailed in this file |
+| extended_attributes_special_pokemon_type_lookup.txt | A table of comma seperated values that link to the extended_attributes_special_pokemon_type id's |
 | extended_attributes_special_pokemon_type.txt | This is a list of the attribute types found on a card that extend above the generic card details |
 | extended_attributes_special_pokemon.txt | This is a set of data that can be found on certain sets and denotes a special type of card |
 | generation.txt | This is a list of the generations of Pokemon |
