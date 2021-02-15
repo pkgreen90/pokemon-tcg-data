@@ -169,8 +169,8 @@ entity "pokemon_card" as pokemon_card {
     *id_pokemon_category : integer <<FK>>
     *id_pokedex_type_1 : integer <<FK>>
     *id_pokedex_type_2 : integer <<FK>>
-    id_set : integer <<FK>>
-    level : text
+    *id_set : integer <<FK>>
+    level : integer
     retreat_cost : text
     hp : integer
     *id_evolves_from : integer <<FK>>
