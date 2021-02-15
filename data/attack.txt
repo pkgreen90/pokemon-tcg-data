@@ -11249,6 +11249,30 @@ id_attack	name	type_1	type_2	type_3	type_4	type_5	value	text
 11248	Zzzap	10						Does 20 damage to each Pokémon in play that has a Pokémon Power. Don't apply Weakness and Resistance.
 11249	Zzzap	10						Does 20 damage to each Pokémon that has any Poké-Powers or Poké-Bodies (both yours and your opponent's). Don't apply Weakness or Resistance.
 11250	Zzzap Touch	9					10	Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, your opponent's Active Pokémon is now Paralyzed.
-11251	Zzzt	10	10				20	
+11251	Zzzap	10	10				20	This attack does 20 damage to each Pokémon with a Poké-Body or Poké-Power (yours and your opponent's). (Don't apply Weakness or Resistance.)
 11252	Zzzt	10					20	
 11253	ふみつけ[Stomp]	10	10				20+	コインを1回投げオモテなら、10ダメージを追加。 Flip a coin. If heads, this attack does 10 more damage.
+11254	Rising Lunge	1	10				20+	Flip a coin. If heads, this attack does 20 damage plus 20 more damage.
+11255	Psychic	10	10	10			30+	This attack does 30 damage plus 10 more damage for each energy card attached to the Defending Pokémon.
+11256	Shake	10					10	Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.
+11257	Freeze Solid	10					10	If there are any Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Articuno.
+11258	Needle Rush	10	10				10+	Flip 4 coins. If you get 1 heads, this attack does 10 damage plus 10 more damage. If you get 2 heads, this attack does 10 damage plus 20 more damage. If you get 3 heads, this attack does 10 damage plus 50 more damage. If you get 4 heads, this attack does 10 damage plus 90 more damage.
+11259	Double Cross	3	10	10			40×	Flip 2 coins. This attack does 40 damage times the number of heads. If both of them are tails, the defending Pokémon is now Confused and Poisoned.
+11260	Freeze Lock	6	10				20	Flip a coin. If heads, your opponent can't attach Energy cards from his or her hand to his or her Active Pokémon during his or her next turn.
+11261	Spinning Blow	10	10				20×	Flip 2 coins. This attack does 20 damage times the number of heads. If both coins are heads, switch Forretress with 1 of your Benched Pokémon.
+11262	Hydrokinesis	5	5	10	10		40	Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused.
+11263	Dragon's Vengeance	6	10	10	10			If Gyarados has 7 or more damage counters on it, this attack's base damage is 100.
+11264	Dual Cut	1	1	10			50×	Flip 2 coins. This attack does 50 damage times the number of heads.
+11265	Pollen Shield	10					10	During your opponent's next turn, Ledian can't become affected by a Special Condition. (Any other effect of attacks, Poké-Powers, Poké-Bodies, and Trainer cards still happen.)
+11266	Drag Off	1	10				20	Before doing damage, if your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon. If your opponent has no Benched Pokémon, ignore this effect.
+11267	Eruption	10	10				20+	Each player discards the top card of his or her deck. This attack does 20 damage plus 20 more damage for each Energy card discarded in this way.
+11268	Crushing Lava	1	10	10			40+	You may discard a or basic Energy card attached to Magcargo. If you discard a Energy card in this way, the Defending Pokémon is now Burned. If you discard a Energy card in this way, this attack does 40 damage plus 20 more damage.
+11269	Electric Blast	4	10	10			40	You may discard all Energy cards attached to Magneton when you use this attack. If you do, put damage counters equal to the amount of Energy cards removed in this way on any number of your opponent's Benched Pokémon in the way you like. (For example, if you discard 3 Energy cards, you can put 1 damage counter on 1 of your opponent's Benched Pokémon and 2 on another.)
+11270	Bounce Off	10	10				20	If Magneton and the Defending Pokémon don't have the same number of Energy cards attached to them, the player controlling the Active Pokémon with the fewest number of Energy cards attached to it switches 1 of his or her Benched Pokémon with his or her Active Pokémon.
+11271	Collect Fire	10					10	If there are any Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Moltres.
+11272	Double Claw	3	10	10			30+	Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads.
+11273	Spook	6	6	10			50	The Defending Pokémon can't retreat during your opponent's next turn.
+11274	Freezing Breath	6	10	10			20	Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep.
+11275	Sudden Growth	10						Attach any number of basic Energy cards from your hand to Politoed.
+11276	Spiral Punch	1	1	10			40+	Flip a coin until you get tails. This attack does 40 damage plus 20 more damage for each heads.
+11277	Zzzap	10	10					This attack does 20 damage to each Pokémon with a Poké-Body or Poké-Power (yours and your opponent's). (Don't apply Weakness or Resistance.)
